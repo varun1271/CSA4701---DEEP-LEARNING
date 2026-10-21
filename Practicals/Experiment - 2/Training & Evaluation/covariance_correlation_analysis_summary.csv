@@ -1,0 +1,29 @@
+Feature_1,Feature_2,Covariance,Pearson_r,Relationship_Category,Enterprise_Interpretation
+Spending,Purchase_Frequency,253.93,0.881,Strong Positive,Direct revenue multiplier; features scale strongly in tandem.
+Income,Average_Order_Value,581.43,0.869,Strong Positive,Direct revenue multiplier; features scale strongly in tandem.
+Income,Spending,429.88,0.862,Strong Positive,Direct revenue multiplier; features scale strongly in tandem.
+Spending,Average_Order_Value,539.76,0.737,Strong Positive,Direct revenue multiplier; features scale strongly in tandem.
+Income,Purchase_Frequency,168.66,0.641,Moderate Positive,Meaningful mutual synergy; higher values generally align.
+Purchase_Frequency,Average_Order_Value,192.44,0.498,Moderate Positive,Meaningful mutual synergy; higher values generally align.
+Spending,Browsing_Duration,98.79,0.443,Moderate Positive,Meaningful mutual synergy; higher values generally align.
+Purchase_Frequency,Browsing_Duration,50.37,0.428,Moderate Positive,Meaningful mutual synergy; higher values generally align.
+Income,Browsing_Duration,79.31,0.389,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Average_Order_Value,Browsing_Duration,99.04,0.331,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Recency,Discount_Sensitivity,2.75,0.288,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Browsing_Duration,Loyalty_Tenure_Years,0.84,0.047,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Discount_Sensitivity,Loyalty_Tenure_Years,0.02,0.037,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Income,Loyalty_Tenure_Years,0.62,0.015,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Purchase_Frequency,Loyalty_Tenure_Years,0.28,0.012,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Spending,Loyalty_Tenure_Years,-0.21,-0.005,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Recency,Loyalty_Tenure_Years,-2.02,-0.029,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Average_Order_Value,Loyalty_Tenure_Years,-2.56,-0.043,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Recency,Browsing_Duration,-47.58,-0.136,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Average_Order_Value,Recency,-362.97,-0.316,Near-Zero / Orthogonal,Independent behavioral dimensions; no direct linear association.
+Discount_Sensitivity,Browsing_Duration,-0.89,-0.357,Moderate Negative,Moderate trade-off or inverse customer behavior.
+Income,Recency,-322.61,-0.412,Moderate Negative,Moderate trade-off or inverse customer behavior.
+Purchase_Frequency,Discount_Sensitivity,-1.49,-0.464,Moderate Negative,Moderate trade-off or inverse customer behavior.
+Spending,Recency,-452.32,-0.528,Moderate Negative,Moderate trade-off or inverse customer behavior.
+Purchase_Frequency,Recency,-259.33,-0.574,Moderate Negative,Moderate trade-off or inverse customer behavior.
+Spending,Discount_Sensitivity,-3.9,-0.641,Strong Negative,Inverse dependency; high values sharply decrease the other.
+Average_Order_Value,Discount_Sensitivity,-5.61,-0.687,Strong Negative,Inverse dependency; high values sharply decrease the other.
+Income,Discount_Sensitivity,-4.27,-0.768,Strong Negative,Inverse dependency; high values sharply decrease the other.

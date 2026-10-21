@@ -1,0 +1,10 @@
+Metric,Value,Interpretation
+Accuracy,0.756578947368421,Overall fraction of correct predictions
+Precision,0.6785714285714286,Fraction of flagged VIPs who are truly VIP
+Recall,0.6666666666666666,Proportion of true VIPs successfully identified
+Specificity,0.8105263157894737,Proportion of standard shoppers correctly identified
+F1-Score,0.672566371681416,Harmonic mean of Precision and Recall
+ROC-AUC,0.8469067405355494,Area Under Receiver Operating Characteristic Curve
+PR-AUC,0.8225574594870683,Area Under Precision-Recall Curve
+Log-Loss,0.4516855126898639,Negative log-likelihood cross-entropy loss
+Brier Score,0.14639821154762903,Mean squared probability calibration error

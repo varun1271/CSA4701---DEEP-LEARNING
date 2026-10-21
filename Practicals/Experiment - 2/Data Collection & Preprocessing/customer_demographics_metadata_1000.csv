@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,City_Tier,Preferred_Category,Loyalty_Tier,High_Value_Customer
+CUST_0001,59,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0002,34,Non-Binary,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0003,30,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0004,30,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0005,50,Male,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0006,20,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0007,30,Male,Tier 2 (Urban),Consumer Electronics,Platinum VIP,1
+CUST_0008,54,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0009,41,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0010,41,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0011,62,Male,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0012,41,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0013,31,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0014,35,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0015,26,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0016,52,Male,Tier 3 (Suburban),Apparel & Luxury,Platinum VIP,1
+CUST_0017,45,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0018,51,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0019,52,Male,Tier 3 (Suburban),Home & Living,Bronze Regular,0
+CUST_0020,34,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0021,28,Male,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0022,38,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0023,29,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0024,40,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0025,51,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0026,37,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0027,40,Non-Binary,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0028,37,Female,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0029,47,Male,Tier 3 (Suburban),Sporting Goods,Gold VIP,1
+CUST_0030,31,Male,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0031,18,Female,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0032,44,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0033,49,Male,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0034,43,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0035,31,Non-Binary,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0036,26,Female,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0037,44,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0038,40,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0039,37,Male,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0040,59,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0041,28,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0042,58,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0043,39,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0044,18,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0045,37,Male,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0046,49,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0047,34,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0048,22,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0049,37,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0050,29,Male,Tier 2 (Urban),Consumer Electronics,Platinum VIP,1
+CUST_0051,44,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0052,47,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0053,27,Female,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0054,31,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0055,47,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0056,29,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0057,27,Female,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0058,26,Male,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0059,42,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0060,42,Male,Tier 3 (Suburban),Sporting Goods,Bronze Regular,0
+CUST_0061,31,Female,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0062,39,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0063,55,Male,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0064,28,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0065,18,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0066,44,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0067,37,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0068,31,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0069,46,Female,Tier 3 (Suburban),Sporting Goods,Platinum VIP,1
+CUST_0070,48,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0071,18,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0072,31,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0073,64,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0074,45,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0075,46,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0076,51,Male,Tier 3 (Suburban),Sporting Goods,Bronze Regular,0
+CUST_0077,39,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0078,47,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0079,46,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0080,44,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0081,35,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0082,40,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0083,32,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0084,39,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0085,26,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0086,30,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0087,35,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0088,28,Male,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0089,33,Male,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0090,37,Female,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0091,43,Non-Binary,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0092,49,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0093,33,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0094,53,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0095,49,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0096,44,Male,Tier 3 (Suburban),Beauty & Health,Platinum VIP,1
+CUST_0097,40,Female,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0098,42,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0099,52,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0100,52,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0101,53,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0102,39,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0103,45,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0104,53,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0105,32,Female,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0106,35,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0107,39,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0108,48,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0109,49,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0110,36,Male,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0111,22,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0112,41,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0113,28,Male,Tier 2 (Urban),Home & Living,Platinum VIP,1
+CUST_0114,22,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0115,25,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0116,42,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0117,53,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0118,39,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0119,41,Male,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0120,52,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0121,22,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0122,44,Female,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0123,38,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0124,45,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0125,33,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0126,30,Female,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0127,40,Male,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0128,57,Male,Tier 2 (Urban),Sporting Goods,Platinum VIP,1
+CUST_0129,48,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0130,33,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0131,24,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0132,20,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0133,53,Female,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0134,28,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0135,35,Non-Binary,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0136,53,Female,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0137,21,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0138,55,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0139,36,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0140,26,Male,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0141,36,Female,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0142,31,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0143,43,Female,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0144,31,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0145,18,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0146,36,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0147,24,Female,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0148,41,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0149,25,Male,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0150,33,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0151,41,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0152,36,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0153,41,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0154,46,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0155,26,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0156,38,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0157,18,Female,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0158,41,Female,Tier 1 (Metro),Sporting Goods,Platinum VIP,1
+CUST_0159,35,Male,Tier 3 (Suburban),Home & Living,Bronze Regular,0
+CUST_0160,28,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0161,42,Female,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0162,51,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0163,33,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0164,28,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0165,40,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0166,24,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0167,31,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0168,52,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0169,39,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0170,18,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0171,19,Female,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0172,40,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0173,48,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0174,21,Female,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0175,43,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0176,53,Male,Tier 3 (Suburban),Sporting Goods,Platinum VIP,1
+CUST_0177,59,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0178,42,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0179,44,Non-Binary,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0180,18,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0181,62,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0182,32,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0183,28,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0184,36,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0185,55,Non-Binary,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0186,63,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0187,40,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0188,49,Male,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0189,39,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0190,27,Female,Tier 2 (Urban),Consumer Electronics,Platinum VIP,1
+CUST_0191,55,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0192,32,Non-Binary,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0193,55,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0194,53,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0195,45,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0196,59,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0197,63,Female,Tier 3 (Suburban),Sporting Goods,Bronze Regular,0
+CUST_0198,37,Female,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0199,30,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0200,18,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0201,63,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0202,34,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0203,51,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0204,30,Non-Binary,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0205,55,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0206,31,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0207,25,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0208,36,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0209,33,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0210,45,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0211,38,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0212,45,Male,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0213,35,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0214,31,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0215,32,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0216,61,Male,Tier 1 (Metro),Home & Living,Platinum VIP,1
+CUST_0217,41,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0218,18,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0219,33,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0220,40,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0221,59,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0222,50,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0223,28,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0224,65,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0225,38,Male,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0226,52,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0227,26,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0228,18,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0229,23,Male,Tier 2 (Urban),Home & Living,Platinum VIP,1
+CUST_0230,18,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0231,62,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0232,41,Female,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0233,28,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0234,43,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0235,41,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0236,45,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0237,52,Male,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0238,35,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0239,29,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0240,48,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0241,47,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0242,40,Non-Binary,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0243,62,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0244,34,Female,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0245,29,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0246,43,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0247,31,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0248,44,Male,Tier 1 (Metro),Home & Living,Platinum VIP,1
+CUST_0249,29,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0250,34,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0251,59,Female,Tier 3 (Suburban),Apparel & Luxury,Platinum VIP,1
+CUST_0252,34,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0253,30,Male,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0254,51,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0255,27,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0256,31,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0257,45,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0258,49,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0259,52,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0260,30,Male,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0261,45,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0262,33,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0263,32,Male,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0264,52,Non-Binary,Tier 2 (Urban),Sporting Goods,Platinum VIP,1
+CUST_0265,32,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0266,42,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0267,40,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0268,27,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0269,49,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0270,45,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0271,18,Non-Binary,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0272,42,Male,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0273,30,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0274,51,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0275,23,Male,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0276,35,Female,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0277,42,Female,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0278,39,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0279,47,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0280,22,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0281,57,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0282,44,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0283,53,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0284,48,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0285,38,Female,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0286,24,Male,Tier 1 (Metro),Sporting Goods,Platinum VIP,1
+CUST_0287,32,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0288,56,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0289,54,Male,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0290,32,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0291,18,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0292,36,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0293,35,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0294,36,Non-Binary,Tier 3 (Suburban),Sporting Goods,Bronze Regular,0
+CUST_0295,44,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0296,48,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0297,49,Female,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0298,43,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0299,19,Male,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0300,35,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0301,64,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0302,43,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0303,43,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0304,42,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0305,43,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0306,18,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0307,36,Female,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0308,38,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0309,53,Female,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0310,39,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0311,20,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0312,43,Male,Tier 2 (Urban),Home & Living,Platinum VIP,1
+CUST_0313,30,Male,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0314,25,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0315,29,Male,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0316,44,Male,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0317,52,Non-Binary,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0318,44,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0319,45,Male,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0320,44,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0321,40,Female,Tier 3 (Suburban),Sporting Goods,Bronze Regular,0
+CUST_0322,46,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0323,18,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0324,40,Female,Tier 3 (Suburban),Beauty & Health,Platinum VIP,1
+CUST_0325,27,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0326,51,Male,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0327,37,Female,Tier 3 (Suburban),Apparel & Luxury,Platinum VIP,1
+CUST_0328,39,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0329,22,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0330,50,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0331,45,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0332,45,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0333,30,Female,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0334,30,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0335,41,Female,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0336,31,Female,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0337,43,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0338,18,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0339,33,Male,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0340,58,Male,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0341,43,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0342,40,Female,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0343,60,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0344,18,Female,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0345,30,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0346,34,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0347,48,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0348,48,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0349,29,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0350,49,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0351,34,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0352,52,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0353,27,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0354,37,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0355,33,Female,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0356,50,Male,Tier 3 (Suburban),Apparel & Luxury,Platinum VIP,1
+CUST_0357,33,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0358,38,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0359,44,Male,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0360,44,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0361,48,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0362,41,Male,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0363,34,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0364,35,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0365,39,Male,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0366,41,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0367,37,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0368,39,Male,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0369,22,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0370,46,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0371,40,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0372,50,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0373,39,Non-Binary,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0374,19,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0375,35,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0376,36,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0377,47,Female,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0378,18,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0379,39,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0380,44,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0381,31,Male,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0382,39,Male,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0383,32,Male,Tier 2 (Urban),Home & Living,Platinum VIP,1
+CUST_0384,30,Male,Tier 2 (Urban),Sporting Goods,Platinum VIP,1
+CUST_0385,34,Female,Tier 2 (Urban),Home & Living,Platinum VIP,1
+CUST_0386,31,Non-Binary,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0387,46,Male,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0388,30,Male,Tier 3 (Suburban),Home & Living,Bronze Regular,0
+CUST_0389,29,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0390,58,Female,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0391,49,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0392,18,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0393,30,Male,Tier 3 (Suburban),Apparel & Luxury,Platinum VIP,1
+CUST_0394,41,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0395,42,Female,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0396,22,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0397,51,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0398,48,Female,Tier 2 (Urban),Beauty & Health,Platinum VIP,1
+CUST_0399,44,Male,Tier 2 (Urban),Sporting Goods,Platinum VIP,1
+CUST_0400,53,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0401,43,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0402,43,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0403,56,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0404,51,Male,Tier 3 (Suburban),Sporting Goods,Bronze Regular,0
+CUST_0405,29,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0406,45,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0407,31,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0408,44,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0409,44,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0410,23,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0411,37,Male,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0412,41,Female,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0413,34,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0414,42,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0415,47,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0416,38,Male,Tier 1 (Metro),Sporting Goods,Platinum VIP,1
+CUST_0417,41,Female,Tier 3 (Suburban),Sporting Goods,Gold VIP,1
+CUST_0418,54,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0419,44,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0420,41,Male,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0421,28,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0422,46,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0423,42,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0424,53,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0425,39,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0426,19,Male,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0427,20,Female,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0428,47,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0429,32,Female,Tier 2 (Urban),Beauty & Health,Platinum VIP,1
+CUST_0430,43,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0431,40,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0432,37,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0433,37,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0434,29,Male,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0435,38,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0436,32,Male,Tier 2 (Urban),Consumer Electronics,Platinum VIP,1
+CUST_0437,34,Male,Tier 3 (Suburban),Home & Living,Bronze Regular,0
+CUST_0438,35,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0439,36,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0440,49,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0441,37,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0442,50,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0443,55,Female,Tier 3 (Suburban),Home & Living,Platinum VIP,1
+CUST_0444,48,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0445,44,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0446,42,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0447,48,Male,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0448,39,Non-Binary,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0449,49,Male,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0450,45,Female,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0451,35,Female,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0452,48,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0453,40,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0454,37,Male,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0455,33,Male,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0456,40,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0457,49,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0458,48,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0459,42,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0460,45,Female,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0461,52,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0462,37,Female,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0463,26,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0464,53,Female,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0465,33,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0466,31,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0467,19,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0468,45,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0469,21,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0470,30,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0471,45,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0472,46,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0473,31,Male,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0474,37,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0475,29,Female,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0476,32,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0477,41,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0478,33,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0479,36,Female,Tier 3 (Suburban),Sporting Goods,Gold VIP,1
+CUST_0480,22,Male,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0481,51,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0482,44,Male,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0483,47,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0484,53,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0485,29,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0486,35,Male,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0487,18,Female,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0488,72,Female,Tier 2 (Urban),Sporting Goods,Platinum VIP,1
+CUST_0489,37,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0490,50,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0491,25,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0492,49,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0493,59,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0494,38,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0495,27,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0496,37,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0497,18,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0498,38,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0499,48,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0500,38,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0501,35,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0502,44,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0503,45,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0504,20,Male,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0505,39,Male,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0506,65,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0507,24,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0508,38,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0509,60,Male,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0510,51,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0511,33,Male,Tier 3 (Suburban),Sporting Goods,Gold VIP,1
+CUST_0512,41,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0513,38,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0514,30,Male,Tier 3 (Suburban),Consumer Electronics,Platinum VIP,1
+CUST_0515,38,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0516,35,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0517,40,Female,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0518,30,Female,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0519,24,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0520,38,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0521,57,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0522,39,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0523,35,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0524,47,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0525,37,Male,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0526,59,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0527,38,Female,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0528,46,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0529,30,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0530,44,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0531,42,Male,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0532,38,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0533,33,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0534,31,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0535,42,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0536,45,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0537,37,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0538,42,Male,Tier 2 (Urban),Consumer Electronics,Platinum VIP,1
+CUST_0539,38,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0540,40,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0541,36,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0542,39,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0543,68,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0544,42,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0545,46,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0546,43,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0547,36,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0548,53,Female,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0549,35,Female,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0550,50,Female,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0551,35,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0552,28,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0553,43,Male,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0554,26,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0555,44,Male,Tier 3 (Suburban),Beauty & Health,Platinum VIP,1
+CUST_0556,25,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0557,35,Male,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0558,23,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0559,70,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0560,20,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0561,39,Female,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0562,51,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0563,50,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0564,48,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0565,35,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0566,53,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0567,49,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0568,41,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0569,41,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0570,35,Female,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0571,28,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0572,52,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0573,53,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0574,29,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0575,37,Male,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0576,37,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0577,38,Male,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0578,39,Female,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0579,49,Female,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0580,30,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0581,29,Female,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0582,52,Female,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0583,33,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0584,25,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0585,33,Female,Tier 1 (Metro),Sporting Goods,Platinum VIP,1
+CUST_0586,35,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0587,56,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0588,49,Male,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0589,51,Female,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0590,48,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0591,49,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0592,31,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0593,36,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0594,28,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0595,36,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0596,46,Female,Tier 1 (Metro),Sporting Goods,Platinum VIP,1
+CUST_0597,40,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0598,53,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0599,26,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0600,44,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0601,25,Non-Binary,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0602,40,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0603,47,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0604,36,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0605,45,Female,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0606,28,Female,Tier 2 (Urban),Home & Living,Platinum VIP,1
+CUST_0607,20,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0608,45,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0609,58,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0610,28,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0611,52,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0612,39,Male,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0613,24,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0614,26,Non-Binary,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0615,39,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0616,34,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0617,24,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0618,20,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0619,29,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0620,41,Female,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0621,38,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0622,33,Male,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0623,41,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0624,50,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0625,43,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0626,37,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0627,49,Male,Tier 3 (Suburban),Apparel & Luxury,Platinum VIP,1
+CUST_0628,28,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0629,36,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0630,36,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0631,25,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0632,34,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0633,18,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0634,60,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0635,28,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0636,56,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0637,39,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0638,45,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0639,33,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0640,41,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0641,46,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0642,46,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0643,47,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0644,34,Female,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0645,33,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0646,21,Female,Tier 1 (Metro),Sporting Goods,Platinum VIP,1
+CUST_0647,44,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0648,50,Female,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0649,56,Male,Tier 3 (Suburban),Home & Living,Bronze Regular,0
+CUST_0650,42,Non-Binary,Tier 3 (Suburban),Sporting Goods,Gold VIP,1
+CUST_0651,30,Female,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0652,20,Male,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0653,50,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0654,19,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0655,35,Male,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0656,36,Female,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0657,38,Female,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0658,39,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0659,40,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0660,18,Non-Binary,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0661,39,Male,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0662,18,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0663,47,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0664,32,Male,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0665,18,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0666,30,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0667,32,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0668,52,Male,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0669,41,Male,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0670,42,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0671,51,Female,Tier 3 (Suburban),Beauty & Health,Platinum VIP,1
+CUST_0672,37,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0673,47,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0674,46,Male,Tier 1 (Metro),Home & Living,Platinum VIP,1
+CUST_0675,24,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0676,55,Female,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0677,23,Male,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0678,49,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0679,22,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0680,45,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0681,59,Male,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0682,36,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0683,36,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0684,45,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0685,35,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0686,59,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0687,41,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0688,35,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0689,33,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0690,28,Female,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0691,32,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0692,35,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0693,33,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0694,31,Male,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0695,62,Female,Tier 1 (Metro),Home & Living,Platinum VIP,1
+CUST_0696,27,Female,Tier 2 (Urban),Home & Living,Platinum VIP,1
+CUST_0697,40,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0698,45,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0699,45,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0700,38,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0701,36,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0702,43,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0703,41,Male,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0704,36,Non-Binary,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0705,21,Male,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0706,33,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0707,26,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0708,31,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0709,39,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0710,42,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0711,58,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0712,33,Male,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0713,47,Male,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0714,42,Female,Tier 3 (Suburban),Consumer Electronics,Platinum VIP,1
+CUST_0715,53,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0716,45,Male,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0717,27,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0718,20,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0719,42,Female,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0720,33,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0721,28,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0722,25,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0723,40,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0724,55,Male,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0725,34,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0726,45,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0727,37,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0728,24,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0729,47,Male,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0730,26,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0731,39,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0732,35,Female,Tier 3 (Suburban),Beauty & Health,Platinum VIP,1
+CUST_0733,48,Male,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0734,27,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0735,43,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0736,29,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0737,33,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0738,18,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0739,62,Male,Tier 3 (Suburban),Sporting Goods,Gold VIP,1
+CUST_0740,45,Male,Tier 3 (Suburban),Home & Living,Bronze Regular,0
+CUST_0741,30,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0742,26,Female,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0743,33,Female,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0744,46,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0745,18,Female,Tier 2 (Urban),Sporting Goods,Platinum VIP,1
+CUST_0746,37,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0747,58,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0748,26,Male,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0749,39,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0750,63,Non-Binary,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0751,45,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0752,40,Female,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0753,44,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0754,34,Male,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0755,53,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0756,34,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0757,18,Female,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0758,34,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0759,28,Male,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0760,35,Male,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0761,36,Female,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0762,52,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0763,46,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0764,41,Female,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0765,38,Male,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0766,27,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0767,18,Male,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0768,40,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0769,47,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0770,37,Male,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0771,33,Non-Binary,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0772,44,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0773,38,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0774,57,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0775,52,Male,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0776,49,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0777,47,Female,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0778,24,Female,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0779,46,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0780,43,Male,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0781,45,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0782,44,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0783,43,Female,Tier 3 (Suburban),Sporting Goods,Gold VIP,1
+CUST_0784,68,Male,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0785,38,Male,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0786,49,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0787,33,Female,Tier 2 (Urban),Consumer Electronics,Platinum VIP,1
+CUST_0788,47,Male,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0789,49,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0790,43,Female,Tier 3 (Suburban),Consumer Electronics,Platinum VIP,1
+CUST_0791,57,Non-Binary,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0792,29,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0793,33,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0794,41,Non-Binary,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0795,48,Female,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0796,40,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0797,53,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0798,31,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0799,26,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0800,42,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0801,38,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0802,44,Female,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0803,38,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0804,35,Female,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0805,38,Female,Tier 2 (Urban),Beauty & Health,Platinum VIP,1
+CUST_0806,39,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0807,35,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0808,36,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0809,34,Female,Tier 2 (Urban),Beauty & Health,Platinum VIP,1
+CUST_0810,48,Male,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0811,41,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0812,63,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0813,40,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0814,32,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0815,68,Male,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0816,43,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0817,49,Male,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0818,45,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0819,45,Male,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0820,44,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0821,26,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0822,43,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0823,24,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0824,37,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0825,31,Female,Tier 3 (Suburban),Consumer Electronics,Platinum VIP,1
+CUST_0826,42,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0827,42,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0828,44,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0829,42,Male,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0830,32,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0831,36,Male,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0832,49,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0833,50,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0834,26,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0835,22,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0836,31,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0837,50,Male,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0838,52,Male,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0839,28,Male,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0840,42,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0841,59,Female,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0842,43,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0843,54,Male,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0844,49,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0845,28,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0846,36,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0847,39,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0848,40,Male,Tier 3 (Suburban),Home & Living,Platinum VIP,1
+CUST_0849,49,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0850,43,Female,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0851,18,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0852,24,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0853,18,Male,Tier 2 (Urban),Home & Living,Platinum VIP,1
+CUST_0854,40,Male,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0855,41,Male,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0856,42,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0857,28,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0858,46,Female,Tier 1 (Metro),Home & Living,Platinum VIP,1
+CUST_0859,46,Female,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0860,25,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0861,22,Male,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0862,38,Female,Tier 3 (Suburban),Consumer Electronics,Bronze Regular,0
+CUST_0863,58,Female,Tier 2 (Urban),Apparel & Luxury,Platinum VIP,1
+CUST_0864,57,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0865,45,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0866,30,Male,Tier 1 (Metro),Sporting Goods,Platinum VIP,1
+CUST_0867,48,Female,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0868,34,Male,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0869,30,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0870,18,Female,Tier 1 (Metro),Beauty & Health,Platinum VIP,1
+CUST_0871,40,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0872,32,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0873,40,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0874,18,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0875,40,Female,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0876,18,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0877,50,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0878,44,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0879,35,Female,Tier 3 (Suburban),Sporting Goods,Bronze Regular,0
+CUST_0880,45,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0881,28,Male,Tier 3 (Suburban),Apparel & Luxury,Bronze Regular,0
+CUST_0882,39,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0883,47,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0884,18,Male,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0885,34,Male,Tier 2 (Urban),Beauty & Health,Bronze Regular,0
+CUST_0886,38,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0887,36,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0888,55,Male,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0889,26,Female,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0890,32,Female,Tier 2 (Urban),Sporting Goods,Gold VIP,1
+CUST_0891,18,Male,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0892,55,Female,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0893,36,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0894,34,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0895,38,Non-Binary,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0896,45,Female,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0897,42,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0898,68,Male,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0899,43,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0900,33,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0901,32,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0902,34,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0903,22,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0904,39,Female,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0905,47,Female,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0906,32,Male,Tier 2 (Urban),Consumer Electronics,Platinum VIP,1
+CUST_0907,30,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0908,55,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0909,23,Female,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0910,18,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0911,26,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0912,22,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0913,43,Male,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0914,35,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0915,36,Male,Tier 3 (Suburban),Home & Living,Silver Member,0
+CUST_0916,51,Female,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0917,31,Female,Tier 2 (Urban),Sporting Goods,Silver Member,0
+CUST_0918,47,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0919,55,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0920,33,Female,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0921,47,Non-Binary,Tier 2 (Urban),Home & Living,Silver Member,0
+CUST_0922,36,Female,Tier 2 (Urban),Apparel & Luxury,Silver Member,0
+CUST_0923,49,Female,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0924,21,Male,Tier 3 (Suburban),Beauty & Health,Gold VIP,1
+CUST_0925,20,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0926,34,Male,Tier 2 (Urban),Home & Living,Gold VIP,1
+CUST_0927,29,Female,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0928,33,Female,Tier 3 (Suburban),Sporting Goods,Platinum VIP,1
+CUST_0929,36,Male,Tier 1 (Metro),Sporting Goods,Gold VIP,1
+CUST_0930,46,Female,Tier 3 (Suburban),Consumer Electronics,Platinum VIP,1
+CUST_0931,34,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0932,29,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0933,35,Female,Tier 3 (Suburban),Apparel & Luxury,Gold VIP,1
+CUST_0934,30,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0935,28,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0936,21,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0937,39,Male,Tier 3 (Suburban),Home & Living,Bronze Regular,0
+CUST_0938,32,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0939,49,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0940,23,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0941,33,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0942,58,Male,Tier 3 (Suburban),Consumer Electronics,Platinum VIP,1
+CUST_0943,28,Non-Binary,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0944,36,Male,Tier 1 (Metro),Beauty & Health,Silver Member,0
+CUST_0945,25,Male,Tier 2 (Urban),Consumer Electronics,Bronze Regular,0
+CUST_0946,24,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0947,56,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0948,40,Male,Tier 1 (Metro),Beauty & Health,Gold VIP,1
+CUST_0949,40,Male,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0950,20,Female,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0951,42,Female,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0952,51,Male,Tier 3 (Suburban),Apparel & Luxury,Silver Member,0
+CUST_0953,51,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0954,46,Male,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0955,26,Male,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0956,42,Female,Tier 1 (Metro),Apparel & Luxury,Silver Member,0
+CUST_0957,46,Non-Binary,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0958,19,Non-Binary,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0959,26,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0960,48,Female,Tier 2 (Urban),Beauty & Health,Silver Member,0
+CUST_0961,48,Female,Tier 1 (Metro),Apparel & Luxury,Platinum VIP,1
+CUST_0962,21,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0963,47,Female,Tier 1 (Metro),Sporting Goods,Silver Member,0
+CUST_0964,40,Female,Tier 3 (Suburban),Home & Living,Gold VIP,1
+CUST_0965,47,Female,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0966,32,Male,Tier 3 (Suburban),Beauty & Health,Bronze Regular,0
+CUST_0967,46,Female,Tier 2 (Urban),Consumer Electronics,Silver Member,0
+CUST_0968,48,Female,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0969,35,Female,Tier 2 (Urban),Sporting Goods,Platinum VIP,1
+CUST_0970,39,Male,Tier 3 (Suburban),Apparel & Luxury,Platinum VIP,1
+CUST_0971,31,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0972,57,Female,Tier 2 (Urban),Apparel & Luxury,Bronze Regular,0
+CUST_0973,37,Male,Tier 3 (Suburban),Consumer Electronics,Silver Member,0
+CUST_0974,28,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0975,31,Male,Tier 3 (Suburban),Beauty & Health,Silver Member,0
+CUST_0976,40,Male,Tier 3 (Suburban),Sporting Goods,Silver Member,0
+CUST_0977,47,Male,Tier 2 (Urban),Sporting Goods,Bronze Regular,0
+CUST_0978,24,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0979,59,Male,Tier 2 (Urban),Home & Living,Bronze Regular,0
+CUST_0980,42,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0981,44,Male,Tier 2 (Urban),Consumer Electronics,Gold VIP,1
+CUST_0982,37,Female,Tier 1 (Metro),Consumer Electronics,Silver Member,0
+CUST_0983,39,Female,Tier 2 (Urban),Beauty & Health,Platinum VIP,1
+CUST_0984,37,Male,Tier 1 (Metro),Consumer Electronics,Gold VIP,1
+CUST_0985,50,Female,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0986,38,Male,Tier 1 (Metro),Beauty & Health,Bronze Regular,0
+CUST_0987,47,Female,Tier 1 (Metro),Apparel & Luxury,Bronze Regular,0
+CUST_0988,34,Male,Tier 1 (Metro),Home & Living,Gold VIP,1
+CUST_0989,41,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
+CUST_0990,30,Female,Tier 1 (Metro),Consumer Electronics,Platinum VIP,1
+CUST_0991,52,Female,Tier 2 (Urban),Beauty & Health,Platinum VIP,1
+CUST_0992,29,Female,Tier 1 (Metro),Consumer Electronics,Bronze Regular,0
+CUST_0993,35,Male,Tier 1 (Metro),Sporting Goods,Bronze Regular,0
+CUST_0994,35,Male,Tier 1 (Metro),Home & Living,Silver Member,0
+CUST_0995,35,Male,Tier 1 (Metro),Home & Living,Bronze Regular,0
+CUST_0996,46,Male,Tier 2 (Urban),Beauty & Health,Gold VIP,1
+CUST_0997,35,Male,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_0998,54,Female,Tier 1 (Metro),Apparel & Luxury,Gold VIP,1
+CUST_0999,29,Female,Tier 2 (Urban),Apparel & Luxury,Gold VIP,1
+CUST_1000,40,Female,Tier 3 (Suburban),Consumer Electronics,Gold VIP,1
