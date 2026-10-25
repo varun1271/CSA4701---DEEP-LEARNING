@@ -1,0 +1,1001 @@
+Batch_ID,Batch_Size,Defect_Count,Defect_Rate,Quality_Status,Production_Line,Shift_Type,Operator_ID,Is_Rejected_Batch
+BATCH_0001,500,4,0.008,Controlled / Acceptable,Line Delta,Night Shift,OP_120,0
+BATCH_0002,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_104,0
+BATCH_0003,500,9,0.018,Elevated / Warning,Line Delta,Day Shift,OP_117,0
+BATCH_0004,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_106,0
+BATCH_0005,500,5,0.01,Controlled / Acceptable,Line Beta,Night Shift,OP_102,0
+BATCH_0006,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_109,0
+BATCH_0007,500,13,0.026,Critical / Batch Scrap,Line Gamma,Night Shift,OP_114,1
+BATCH_0008,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_101,0
+BATCH_0009,500,7,0.014,Elevated / Warning,Line Alpha,Night Shift,OP_117,0
+BATCH_0010,500,14,0.028,Critical / Batch Scrap,Line Alpha,Day Shift,OP_111,1
+BATCH_0011,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_129,0
+BATCH_0012,500,13,0.026,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_126,1
+BATCH_0013,500,3,0.006,Pristine / Optimal,Line Gamma,Night Shift,OP_127,0
+BATCH_0014,500,5,0.01,Controlled / Acceptable,Line Alpha,Night Shift,OP_106,0
+BATCH_0015,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_129,0
+BATCH_0016,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_101,0
+BATCH_0017,500,2,0.004,Pristine / Optimal,Line Delta,Evening Shift,OP_128,0
+BATCH_0018,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_119,0
+BATCH_0019,500,7,0.014,Elevated / Warning,Line Alpha,Night Shift,OP_116,0
+BATCH_0020,500,10,0.02,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_126,1
+BATCH_0021,500,9,0.018,Elevated / Warning,Line Alpha,Evening Shift,OP_118,0
+BATCH_0022,500,8,0.016,Elevated / Warning,Line Gamma,Evening Shift,OP_129,0
+BATCH_0023,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_111,0
+BATCH_0024,500,0,0.0,Pristine / Optimal,Line Beta,Night Shift,OP_109,0
+BATCH_0025,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_121,0
+BATCH_0026,500,15,0.03,Critical / Batch Scrap,Line Beta,Day Shift,OP_106,1
+BATCH_0027,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_102,0
+BATCH_0028,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_108,0
+BATCH_0029,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_122,0
+BATCH_0030,500,1,0.002,Pristine / Optimal,Line Delta,Night Shift,OP_116,0
+BATCH_0031,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_127,0
+BATCH_0032,500,9,0.018,Elevated / Warning,Line Alpha,Night Shift,OP_128,0
+BATCH_0033,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_108,1
+BATCH_0034,500,7,0.014,Elevated / Warning,Line Beta,Night Shift,OP_108,0
+BATCH_0035,500,11,0.022,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_114,1
+BATCH_0036,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_101,1
+BATCH_0037,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_107,0
+BATCH_0038,500,4,0.008,Controlled / Acceptable,Line Gamma,Night Shift,OP_102,0
+BATCH_0039,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_115,0
+BATCH_0040,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_127,0
+BATCH_0041,500,15,0.03,Critical / Batch Scrap,Line Alpha,Night Shift,OP_124,1
+BATCH_0042,500,11,0.022,Critical / Batch Scrap,Line Gamma,Day Shift,OP_128,1
+BATCH_0043,500,6,0.012,Controlled / Acceptable,Line Gamma,Evening Shift,OP_118,0
+BATCH_0044,500,13,0.026,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_104,1
+BATCH_0045,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_118,0
+BATCH_0046,500,2,0.004,Pristine / Optimal,Line Delta,Evening Shift,OP_129,0
+BATCH_0047,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_123,0
+BATCH_0048,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_105,0
+BATCH_0049,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_129,0
+BATCH_0050,500,12,0.024,Critical / Batch Scrap,Line Beta,Day Shift,OP_127,1
+BATCH_0051,500,7,0.014,Elevated / Warning,Line Delta,Evening Shift,OP_116,0
+BATCH_0052,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_113,0
+BATCH_0053,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_127,0
+BATCH_0054,500,3,0.006,Pristine / Optimal,Line Gamma,Night Shift,OP_109,0
+BATCH_0055,500,12,0.024,Critical / Batch Scrap,Line Beta,Night Shift,OP_105,1
+BATCH_0056,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_127,0
+BATCH_0057,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_108,0
+BATCH_0058,500,4,0.008,Controlled / Acceptable,Line Gamma,Night Shift,OP_118,0
+BATCH_0059,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_103,0
+BATCH_0060,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_106,0
+BATCH_0061,500,9,0.018,Elevated / Warning,Line Beta,Day Shift,OP_111,0
+BATCH_0062,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_123,0
+BATCH_0063,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_114,0
+BATCH_0064,500,2,0.004,Pristine / Optimal,Line Delta,Night Shift,OP_126,0
+BATCH_0065,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_124,0
+BATCH_0066,500,8,0.016,Elevated / Warning,Line Gamma,Evening Shift,OP_119,0
+BATCH_0067,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_107,0
+BATCH_0068,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_124,0
+BATCH_0069,500,5,0.01,Controlled / Acceptable,Line Beta,Evening Shift,OP_110,0
+BATCH_0070,500,1,0.002,Pristine / Optimal,Line Beta,Night Shift,OP_115,0
+BATCH_0071,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_106,0
+BATCH_0072,500,4,0.008,Controlled / Acceptable,Line Beta,Night Shift,OP_120,0
+BATCH_0073,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_129,0
+BATCH_0074,500,1,0.002,Pristine / Optimal,Line Delta,Evening Shift,OP_106,0
+BATCH_0075,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_116,0
+BATCH_0076,500,4,0.008,Controlled / Acceptable,Line Alpha,Night Shift,OP_109,0
+BATCH_0077,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_119,0
+BATCH_0078,500,8,0.016,Elevated / Warning,Line Beta,Day Shift,OP_118,0
+BATCH_0079,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_105,0
+BATCH_0080,500,2,0.004,Pristine / Optimal,Line Alpha,Night Shift,OP_116,0
+BATCH_0081,500,14,0.028,Critical / Batch Scrap,Line Alpha,Day Shift,OP_107,1
+BATCH_0082,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_119,0
+BATCH_0083,500,13,0.026,Critical / Batch Scrap,Line Beta,Evening Shift,OP_105,1
+BATCH_0084,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_120,0
+BATCH_0085,500,7,0.014,Elevated / Warning,Line Alpha,Night Shift,OP_111,0
+BATCH_0086,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_123,0
+BATCH_0087,500,12,0.024,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_118,1
+BATCH_0088,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_128,0
+BATCH_0089,500,8,0.016,Elevated / Warning,Line Beta,Evening Shift,OP_127,0
+BATCH_0090,500,11,0.022,Critical / Batch Scrap,Line Alpha,Day Shift,OP_129,1
+BATCH_0091,500,2,0.004,Pristine / Optimal,Line Delta,Night Shift,OP_107,0
+BATCH_0092,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_128,0
+BATCH_0093,500,7,0.014,Elevated / Warning,Line Delta,Day Shift,OP_118,0
+BATCH_0094,500,1,0.002,Pristine / Optimal,Line Delta,Evening Shift,OP_103,0
+BATCH_0095,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_105,0
+BATCH_0096,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_123,1
+BATCH_0097,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_113,0
+BATCH_0098,500,8,0.016,Elevated / Warning,Line Alpha,Night Shift,OP_116,0
+BATCH_0099,500,6,0.012,Controlled / Acceptable,Line Delta,Evening Shift,OP_122,0
+BATCH_0100,500,7,0.014,Elevated / Warning,Line Gamma,Day Shift,OP_112,0
+BATCH_0101,500,4,0.008,Controlled / Acceptable,Line Delta,Night Shift,OP_107,0
+BATCH_0102,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_127,0
+BATCH_0103,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_122,0
+BATCH_0104,500,1,0.002,Pristine / Optimal,Line Beta,Day Shift,OP_113,0
+BATCH_0105,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_128,0
+BATCH_0106,500,8,0.016,Elevated / Warning,Line Beta,Day Shift,OP_101,0
+BATCH_0107,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_115,0
+BATCH_0108,500,9,0.018,Elevated / Warning,Line Delta,Night Shift,OP_121,0
+BATCH_0109,500,11,0.022,Critical / Batch Scrap,Line Beta,Night Shift,OP_112,1
+BATCH_0110,500,0,0.0,Pristine / Optimal,Line Delta,Night Shift,OP_117,0
+BATCH_0111,500,2,0.004,Pristine / Optimal,Line Delta,Evening Shift,OP_123,0
+BATCH_0112,500,9,0.018,Elevated / Warning,Line Beta,Evening Shift,OP_120,0
+BATCH_0113,500,5,0.01,Controlled / Acceptable,Line Alpha,Night Shift,OP_105,0
+BATCH_0114,500,9,0.018,Elevated / Warning,Line Gamma,Evening Shift,OP_117,0
+BATCH_0115,500,15,0.03,Critical / Batch Scrap,Line Beta,Evening Shift,OP_124,1
+BATCH_0116,500,9,0.018,Elevated / Warning,Line Alpha,Evening Shift,OP_115,0
+BATCH_0117,500,9,0.018,Elevated / Warning,Line Beta,Day Shift,OP_120,0
+BATCH_0118,500,13,0.026,Critical / Batch Scrap,Line Delta,Evening Shift,OP_119,1
+BATCH_0119,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_101,0
+BATCH_0120,500,9,0.018,Elevated / Warning,Line Gamma,Evening Shift,OP_104,0
+BATCH_0121,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_103,0
+BATCH_0122,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_108,0
+BATCH_0123,500,10,0.02,Critical / Batch Scrap,Line Beta,Night Shift,OP_109,1
+BATCH_0124,500,2,0.004,Pristine / Optimal,Line Gamma,Night Shift,OP_112,0
+BATCH_0125,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_105,0
+BATCH_0126,500,16,0.032,Critical / Batch Scrap,Line Alpha,Day Shift,OP_109,1
+BATCH_0127,500,9,0.018,Elevated / Warning,Line Delta,Evening Shift,OP_101,0
+BATCH_0128,500,13,0.026,Critical / Batch Scrap,Line Beta,Day Shift,OP_123,1
+BATCH_0129,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_111,0
+BATCH_0130,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_107,0
+BATCH_0131,500,6,0.012,Controlled / Acceptable,Line Alpha,Night Shift,OP_122,0
+BATCH_0132,500,4,0.008,Controlled / Acceptable,Line Delta,Evening Shift,OP_120,0
+BATCH_0133,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_129,0
+BATCH_0134,500,11,0.022,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_127,1
+BATCH_0135,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_125,0
+BATCH_0136,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_114,0
+BATCH_0137,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_103,0
+BATCH_0138,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_127,0
+BATCH_0139,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_111,0
+BATCH_0140,500,0,0.0,Pristine / Optimal,Line Beta,Day Shift,OP_117,0
+BATCH_0141,500,14,0.028,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_118,1
+BATCH_0142,500,12,0.024,Critical / Batch Scrap,Line Beta,Evening Shift,OP_119,1
+BATCH_0143,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_118,0
+BATCH_0144,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_106,0
+BATCH_0145,500,10,0.02,Critical / Batch Scrap,Line Gamma,Day Shift,OP_129,1
+BATCH_0146,500,13,0.026,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_115,1
+BATCH_0147,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_107,0
+BATCH_0148,500,9,0.018,Elevated / Warning,Line Beta,Day Shift,OP_105,0
+BATCH_0149,500,6,0.012,Controlled / Acceptable,Line Beta,Evening Shift,OP_105,0
+BATCH_0150,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_107,0
+BATCH_0151,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_122,0
+BATCH_0152,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_112,0
+BATCH_0153,500,3,0.006,Pristine / Optimal,Line Gamma,Night Shift,OP_108,0
+BATCH_0154,500,1,0.002,Pristine / Optimal,Line Delta,Night Shift,OP_125,0
+BATCH_0155,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_118,1
+BATCH_0156,500,2,0.004,Pristine / Optimal,Line Delta,Night Shift,OP_128,0
+BATCH_0157,500,1,0.002,Pristine / Optimal,Line Beta,Evening Shift,OP_118,0
+BATCH_0158,500,6,0.012,Controlled / Acceptable,Line Alpha,Night Shift,OP_117,0
+BATCH_0159,500,9,0.018,Elevated / Warning,Line Gamma,Evening Shift,OP_123,0
+BATCH_0160,500,3,0.006,Pristine / Optimal,Line Gamma,Evening Shift,OP_111,0
+BATCH_0161,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_115,0
+BATCH_0162,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_120,0
+BATCH_0163,500,6,0.012,Controlled / Acceptable,Line Alpha,Evening Shift,OP_125,0
+BATCH_0164,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_106,0
+BATCH_0165,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_112,0
+BATCH_0166,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_123,0
+BATCH_0167,500,11,0.022,Critical / Batch Scrap,Line Beta,Night Shift,OP_129,1
+BATCH_0168,500,4,0.008,Controlled / Acceptable,Line Delta,Evening Shift,OP_107,0
+BATCH_0169,500,6,0.012,Controlled / Acceptable,Line Gamma,Evening Shift,OP_108,0
+BATCH_0170,500,25,0.05,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_104,1
+BATCH_0171,500,6,0.012,Controlled / Acceptable,Line Delta,Day Shift,OP_103,0
+BATCH_0172,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_103,0
+BATCH_0173,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_110,0
+BATCH_0174,500,8,0.016,Elevated / Warning,Line Beta,Night Shift,OP_124,0
+BATCH_0175,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_128,0
+BATCH_0176,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_115,0
+BATCH_0177,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_113,0
+BATCH_0178,500,10,0.02,Critical / Batch Scrap,Line Beta,Day Shift,OP_119,1
+BATCH_0179,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_108,1
+BATCH_0180,500,8,0.016,Elevated / Warning,Line Gamma,Evening Shift,OP_118,0
+BATCH_0181,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_105,0
+BATCH_0182,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_121,0
+BATCH_0183,500,1,0.002,Pristine / Optimal,Line Beta,Evening Shift,OP_107,0
+BATCH_0184,500,14,0.028,Critical / Batch Scrap,Line Delta,Night Shift,OP_105,1
+BATCH_0185,500,8,0.016,Elevated / Warning,Line Beta,Day Shift,OP_125,0
+BATCH_0186,500,6,0.012,Controlled / Acceptable,Line Delta,Evening Shift,OP_119,0
+BATCH_0187,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_125,0
+BATCH_0188,500,11,0.022,Critical / Batch Scrap,Line Gamma,Night Shift,OP_117,1
+BATCH_0189,500,4,0.008,Controlled / Acceptable,Line Gamma,Evening Shift,OP_119,0
+BATCH_0190,500,6,0.012,Controlled / Acceptable,Line Alpha,Night Shift,OP_104,0
+BATCH_0191,500,0,0.0,Pristine / Optimal,Line Delta,Day Shift,OP_122,0
+BATCH_0192,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_126,0
+BATCH_0193,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_124,0
+BATCH_0194,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_107,0
+BATCH_0195,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_124,0
+BATCH_0196,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_122,0
+BATCH_0197,500,0,0.0,Pristine / Optimal,Line Delta,Evening Shift,OP_106,0
+BATCH_0198,500,0,0.0,Pristine / Optimal,Line Beta,Day Shift,OP_114,0
+BATCH_0199,500,7,0.014,Elevated / Warning,Line Delta,Evening Shift,OP_122,0
+BATCH_0200,500,10,0.02,Critical / Batch Scrap,Line Beta,Day Shift,OP_119,1
+BATCH_0201,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_126,0
+BATCH_0202,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_120,0
+BATCH_0203,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_111,0
+BATCH_0204,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_122,0
+BATCH_0205,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_129,0
+BATCH_0206,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_107,0
+BATCH_0207,500,11,0.022,Critical / Batch Scrap,Line Beta,Evening Shift,OP_103,1
+BATCH_0208,500,6,0.012,Controlled / Acceptable,Line Gamma,Night Shift,OP_120,0
+BATCH_0209,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_122,0
+BATCH_0210,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_117,0
+BATCH_0211,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_111,1
+BATCH_0212,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_115,0
+BATCH_0213,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_107,0
+BATCH_0214,500,9,0.018,Elevated / Warning,Line Beta,Day Shift,OP_129,0
+BATCH_0215,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_115,0
+BATCH_0216,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_127,0
+BATCH_0217,500,13,0.026,Critical / Batch Scrap,Line Beta,Day Shift,OP_117,1
+BATCH_0218,500,12,0.024,Critical / Batch Scrap,Line Beta,Day Shift,OP_111,1
+BATCH_0219,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_129,0
+BATCH_0220,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_128,0
+BATCH_0221,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_129,0
+BATCH_0222,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_112,0
+BATCH_0223,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_113,0
+BATCH_0224,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_126,0
+BATCH_0225,500,13,0.026,Critical / Batch Scrap,Line Beta,Evening Shift,OP_111,1
+BATCH_0226,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_111,0
+BATCH_0227,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_125,0
+BATCH_0228,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_126,0
+BATCH_0229,500,4,0.008,Controlled / Acceptable,Line Beta,Night Shift,OP_109,0
+BATCH_0230,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_111,0
+BATCH_0231,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_125,0
+BATCH_0232,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_104,0
+BATCH_0233,500,2,0.004,Pristine / Optimal,Line Delta,Evening Shift,OP_102,0
+BATCH_0234,500,1,0.002,Pristine / Optimal,Line Beta,Evening Shift,OP_123,0
+BATCH_0235,500,1,0.002,Pristine / Optimal,Line Delta,Night Shift,OP_129,0
+BATCH_0236,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_104,0
+BATCH_0237,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_114,0
+BATCH_0238,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_105,1
+BATCH_0239,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_117,0
+BATCH_0240,500,7,0.014,Elevated / Warning,Line Beta,Night Shift,OP_127,0
+BATCH_0241,500,4,0.008,Controlled / Acceptable,Line Gamma,Evening Shift,OP_112,0
+BATCH_0242,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_126,0
+BATCH_0243,500,9,0.018,Elevated / Warning,Line Gamma,Night Shift,OP_129,0
+BATCH_0244,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_106,0
+BATCH_0245,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_112,0
+BATCH_0246,500,8,0.016,Elevated / Warning,Line Alpha,Night Shift,OP_115,0
+BATCH_0247,500,6,0.012,Controlled / Acceptable,Line Beta,Evening Shift,OP_123,0
+BATCH_0248,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_119,0
+BATCH_0249,500,8,0.016,Elevated / Warning,Line Gamma,Day Shift,OP_110,0
+BATCH_0250,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_102,0
+BATCH_0251,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_129,0
+BATCH_0252,500,2,0.004,Pristine / Optimal,Line Gamma,Evening Shift,OP_112,0
+BATCH_0253,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_112,0
+BATCH_0254,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_126,0
+BATCH_0255,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_107,0
+BATCH_0256,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_101,0
+BATCH_0257,500,0,0.0,Pristine / Optimal,Line Gamma,Evening Shift,OP_118,0
+BATCH_0258,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_103,0
+BATCH_0259,500,6,0.012,Controlled / Acceptable,Line Gamma,Day Shift,OP_120,0
+BATCH_0260,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_105,0
+BATCH_0261,500,6,0.012,Controlled / Acceptable,Line Gamma,Day Shift,OP_120,0
+BATCH_0262,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_115,0
+BATCH_0263,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_110,0
+BATCH_0264,500,10,0.02,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_119,1
+BATCH_0265,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_101,0
+BATCH_0266,500,1,0.002,Pristine / Optimal,Line Gamma,Night Shift,OP_107,0
+BATCH_0267,500,1,0.002,Pristine / Optimal,Line Beta,Evening Shift,OP_128,0
+BATCH_0268,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_126,0
+BATCH_0269,500,22,0.044,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_122,1
+BATCH_0270,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_118,0
+BATCH_0271,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_102,0
+BATCH_0272,500,8,0.016,Elevated / Warning,Line Gamma,Night Shift,OP_119,0
+BATCH_0273,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_124,0
+BATCH_0274,500,2,0.004,Pristine / Optimal,Line Alpha,Night Shift,OP_124,0
+BATCH_0275,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_110,0
+BATCH_0276,500,6,0.012,Controlled / Acceptable,Line Beta,Night Shift,OP_115,0
+BATCH_0277,500,7,0.014,Elevated / Warning,Line Gamma,Day Shift,OP_110,0
+BATCH_0278,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_126,0
+BATCH_0279,500,11,0.022,Critical / Batch Scrap,Line Delta,Evening Shift,OP_128,1
+BATCH_0280,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_110,0
+BATCH_0281,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_127,0
+BATCH_0282,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_112,0
+BATCH_0283,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_108,0
+BATCH_0284,500,12,0.024,Critical / Batch Scrap,Line Alpha,Night Shift,OP_123,1
+BATCH_0285,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_114,0
+BATCH_0286,500,6,0.012,Controlled / Acceptable,Line Alpha,Night Shift,OP_102,0
+BATCH_0287,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_117,0
+BATCH_0288,500,10,0.02,Critical / Batch Scrap,Line Delta,Day Shift,OP_106,1
+BATCH_0289,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_127,0
+BATCH_0290,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_108,0
+BATCH_0291,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_101,0
+BATCH_0292,500,10,0.02,Critical / Batch Scrap,Line Beta,Day Shift,OP_103,1
+BATCH_0293,500,8,0.016,Elevated / Warning,Line Gamma,Evening Shift,OP_115,0
+BATCH_0294,500,3,0.006,Pristine / Optimal,Line Gamma,Evening Shift,OP_117,0
+BATCH_0295,500,8,0.016,Elevated / Warning,Line Gamma,Day Shift,OP_126,0
+BATCH_0296,500,2,0.004,Pristine / Optimal,Line Alpha,Night Shift,OP_125,0
+BATCH_0297,500,4,0.008,Controlled / Acceptable,Line Gamma,Evening Shift,OP_107,0
+BATCH_0298,500,7,0.014,Elevated / Warning,Line Alpha,Evening Shift,OP_114,0
+BATCH_0299,500,11,0.022,Critical / Batch Scrap,Line Alpha,Night Shift,OP_124,1
+BATCH_0300,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_125,0
+BATCH_0301,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_103,0
+BATCH_0302,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_126,0
+BATCH_0303,500,14,0.028,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_127,1
+BATCH_0304,500,10,0.02,Critical / Batch Scrap,Line Beta,Evening Shift,OP_118,1
+BATCH_0305,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_122,0
+BATCH_0306,500,3,0.006,Pristine / Optimal,Line Gamma,Evening Shift,OP_105,0
+BATCH_0307,500,4,0.008,Controlled / Acceptable,Line Delta,Day Shift,OP_120,0
+BATCH_0308,500,2,0.004,Pristine / Optimal,Line Gamma,Night Shift,OP_122,0
+BATCH_0309,500,10,0.02,Critical / Batch Scrap,Line Beta,Night Shift,OP_115,1
+BATCH_0310,500,4,0.008,Controlled / Acceptable,Line Alpha,Night Shift,OP_106,0
+BATCH_0311,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_128,0
+BATCH_0312,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_103,0
+BATCH_0313,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_118,0
+BATCH_0314,500,18,0.036,Critical / Batch Scrap,Line Delta,Night Shift,OP_125,1
+BATCH_0315,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_124,1
+BATCH_0316,500,17,0.034,Critical / Batch Scrap,Line Beta,Day Shift,OP_120,1
+BATCH_0317,500,0,0.0,Pristine / Optimal,Line Gamma,Evening Shift,OP_122,0
+BATCH_0318,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_103,0
+BATCH_0319,500,7,0.014,Elevated / Warning,Line Gamma,Evening Shift,OP_127,0
+BATCH_0320,500,14,0.028,Critical / Batch Scrap,Line Delta,Evening Shift,OP_108,1
+BATCH_0321,500,6,0.012,Controlled / Acceptable,Line Delta,Evening Shift,OP_119,0
+BATCH_0322,500,1,0.002,Pristine / Optimal,Line Delta,Night Shift,OP_118,0
+BATCH_0323,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_115,0
+BATCH_0324,500,15,0.03,Critical / Batch Scrap,Line Gamma,Day Shift,OP_123,1
+BATCH_0325,500,12,0.024,Critical / Batch Scrap,Line Gamma,Day Shift,OP_114,1
+BATCH_0326,500,1,0.002,Pristine / Optimal,Line Alpha,Night Shift,OP_116,0
+BATCH_0327,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_103,0
+BATCH_0328,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_129,0
+BATCH_0329,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_125,0
+BATCH_0330,500,17,0.034,Critical / Batch Scrap,Line Beta,Day Shift,OP_115,1
+BATCH_0331,500,2,0.004,Pristine / Optimal,Line Alpha,Night Shift,OP_119,0
+BATCH_0332,500,6,0.012,Controlled / Acceptable,Line Delta,Night Shift,OP_108,0
+BATCH_0333,500,6,0.012,Controlled / Acceptable,Line Gamma,Evening Shift,OP_102,0
+BATCH_0334,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_125,0
+BATCH_0335,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_117,0
+BATCH_0336,500,2,0.004,Pristine / Optimal,Line Gamma,Evening Shift,OP_112,0
+BATCH_0337,500,5,0.01,Controlled / Acceptable,Line Gamma,Evening Shift,OP_119,0
+BATCH_0338,500,4,0.008,Controlled / Acceptable,Line Delta,Day Shift,OP_111,0
+BATCH_0339,500,8,0.016,Elevated / Warning,Line Delta,Day Shift,OP_118,0
+BATCH_0340,500,4,0.008,Controlled / Acceptable,Line Delta,Night Shift,OP_113,0
+BATCH_0341,500,9,0.018,Elevated / Warning,Line Beta,Day Shift,OP_114,0
+BATCH_0342,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_129,0
+BATCH_0343,500,8,0.016,Elevated / Warning,Line Gamma,Day Shift,OP_112,0
+BATCH_0344,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_115,1
+BATCH_0345,500,5,0.01,Controlled / Acceptable,Line Gamma,Night Shift,OP_123,0
+BATCH_0346,500,13,0.026,Critical / Batch Scrap,Line Beta,Day Shift,OP_121,1
+BATCH_0347,500,4,0.008,Controlled / Acceptable,Line Gamma,Evening Shift,OP_108,0
+BATCH_0348,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_102,0
+BATCH_0349,500,8,0.016,Elevated / Warning,Line Beta,Day Shift,OP_108,0
+BATCH_0350,500,8,0.016,Elevated / Warning,Line Beta,Night Shift,OP_123,0
+BATCH_0351,500,4,0.008,Controlled / Acceptable,Line Delta,Evening Shift,OP_128,0
+BATCH_0352,500,1,0.002,Pristine / Optimal,Line Alpha,Night Shift,OP_127,0
+BATCH_0353,500,3,0.006,Pristine / Optimal,Line Delta,Night Shift,OP_105,0
+BATCH_0354,500,3,0.006,Pristine / Optimal,Line Gamma,Night Shift,OP_102,0
+BATCH_0355,500,6,0.012,Controlled / Acceptable,Line Gamma,Night Shift,OP_110,0
+BATCH_0356,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_127,0
+BATCH_0357,500,9,0.018,Elevated / Warning,Line Beta,Night Shift,OP_123,0
+BATCH_0358,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_110,1
+BATCH_0359,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_104,0
+BATCH_0360,500,7,0.014,Elevated / Warning,Line Delta,Day Shift,OP_104,0
+BATCH_0361,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_108,0
+BATCH_0362,500,19,0.038,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_106,1
+BATCH_0363,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_125,0
+BATCH_0364,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_127,0
+BATCH_0365,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_115,0
+BATCH_0366,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_118,0
+BATCH_0367,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_121,0
+BATCH_0368,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_122,0
+BATCH_0369,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_108,0
+BATCH_0370,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_120,0
+BATCH_0371,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_127,0
+BATCH_0372,500,0,0.0,Pristine / Optimal,Line Beta,Evening Shift,OP_107,0
+BATCH_0373,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_127,0
+BATCH_0374,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_123,0
+BATCH_0375,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_120,0
+BATCH_0376,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_117,0
+BATCH_0377,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_119,0
+BATCH_0378,500,14,0.028,Critical / Batch Scrap,Line Gamma,Day Shift,OP_102,1
+BATCH_0379,500,1,0.002,Pristine / Optimal,Line Beta,Night Shift,OP_129,0
+BATCH_0380,500,7,0.014,Elevated / Warning,Line Alpha,Evening Shift,OP_129,0
+BATCH_0381,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_112,0
+BATCH_0382,500,0,0.0,Pristine / Optimal,Line Alpha,Night Shift,OP_119,0
+BATCH_0383,500,7,0.014,Elevated / Warning,Line Gamma,Evening Shift,OP_105,0
+BATCH_0384,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_127,0
+BATCH_0385,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_112,0
+BATCH_0386,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_117,0
+BATCH_0387,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_105,0
+BATCH_0388,500,12,0.024,Critical / Batch Scrap,Line Alpha,Day Shift,OP_102,1
+BATCH_0389,500,4,0.008,Controlled / Acceptable,Line Beta,Night Shift,OP_104,0
+BATCH_0390,500,4,0.008,Controlled / Acceptable,Line Beta,Night Shift,OP_106,0
+BATCH_0391,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_109,1
+BATCH_0392,500,11,0.022,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_126,1
+BATCH_0393,500,12,0.024,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_122,1
+BATCH_0394,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_110,0
+BATCH_0395,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_129,0
+BATCH_0396,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_111,0
+BATCH_0397,500,8,0.016,Elevated / Warning,Line Beta,Evening Shift,OP_128,0
+BATCH_0398,500,3,0.006,Pristine / Optimal,Line Gamma,Night Shift,OP_102,0
+BATCH_0399,500,13,0.026,Critical / Batch Scrap,Line Beta,Day Shift,OP_124,1
+BATCH_0400,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_121,0
+BATCH_0401,500,15,0.03,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_125,1
+BATCH_0402,500,2,0.004,Pristine / Optimal,Line Gamma,Evening Shift,OP_126,0
+BATCH_0403,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_109,1
+BATCH_0404,500,6,0.012,Controlled / Acceptable,Line Delta,Evening Shift,OP_120,0
+BATCH_0405,500,4,0.008,Controlled / Acceptable,Line Gamma,Night Shift,OP_129,0
+BATCH_0406,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_117,0
+BATCH_0407,500,8,0.016,Elevated / Warning,Line Delta,Day Shift,OP_127,0
+BATCH_0408,500,6,0.012,Controlled / Acceptable,Line Beta,Night Shift,OP_109,0
+BATCH_0409,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_125,0
+BATCH_0410,500,8,0.016,Elevated / Warning,Line Gamma,Night Shift,OP_108,0
+BATCH_0411,500,16,0.032,Critical / Batch Scrap,Line Beta,Day Shift,OP_105,1
+BATCH_0412,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_105,0
+BATCH_0413,500,4,0.008,Controlled / Acceptable,Line Delta,Day Shift,OP_126,0
+BATCH_0414,500,25,0.05,Critical / Batch Scrap,Line Alpha,Day Shift,OP_106,1
+BATCH_0415,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_116,0
+BATCH_0416,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_101,0
+BATCH_0417,500,21,0.042,Critical / Batch Scrap,Line Delta,Day Shift,OP_109,1
+BATCH_0418,500,4,0.008,Controlled / Acceptable,Line Delta,Night Shift,OP_121,0
+BATCH_0419,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_107,0
+BATCH_0420,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_111,0
+BATCH_0421,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_115,0
+BATCH_0422,500,9,0.018,Elevated / Warning,Line Delta,Evening Shift,OP_124,0
+BATCH_0423,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_105,0
+BATCH_0424,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_119,0
+BATCH_0425,500,1,0.002,Pristine / Optimal,Line Alpha,Night Shift,OP_106,0
+BATCH_0426,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_123,0
+BATCH_0427,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_129,0
+BATCH_0428,500,15,0.03,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_114,1
+BATCH_0429,500,10,0.02,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_120,1
+BATCH_0430,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_125,0
+BATCH_0431,500,5,0.01,Controlled / Acceptable,Line Gamma,Night Shift,OP_114,0
+BATCH_0432,500,8,0.016,Elevated / Warning,Line Gamma,Evening Shift,OP_111,0
+BATCH_0433,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_104,0
+BATCH_0434,500,6,0.012,Controlled / Acceptable,Line Delta,Day Shift,OP_127,0
+BATCH_0435,500,3,0.006,Pristine / Optimal,Line Gamma,Night Shift,OP_110,0
+BATCH_0436,500,5,0.01,Controlled / Acceptable,Line Delta,Day Shift,OP_102,0
+BATCH_0437,500,10,0.02,Critical / Batch Scrap,Line Delta,Evening Shift,OP_125,1
+BATCH_0438,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_104,0
+BATCH_0439,500,25,0.05,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_120,1
+BATCH_0440,500,15,0.03,Critical / Batch Scrap,Line Gamma,Day Shift,OP_110,1
+BATCH_0441,500,5,0.01,Controlled / Acceptable,Line Delta,Day Shift,OP_101,0
+BATCH_0442,500,10,0.02,Critical / Batch Scrap,Line Beta,Night Shift,OP_114,1
+BATCH_0443,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_118,0
+BATCH_0444,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_112,0
+BATCH_0445,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_119,0
+BATCH_0446,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_123,0
+BATCH_0447,500,1,0.002,Pristine / Optimal,Line Beta,Day Shift,OP_112,0
+BATCH_0448,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_125,0
+BATCH_0449,500,0,0.0,Pristine / Optimal,Line Beta,Night Shift,OP_128,0
+BATCH_0450,500,1,0.002,Pristine / Optimal,Line Delta,Evening Shift,OP_105,0
+BATCH_0451,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_104,0
+BATCH_0452,500,8,0.016,Elevated / Warning,Line Delta,Night Shift,OP_113,0
+BATCH_0453,500,3,0.006,Pristine / Optimal,Line Gamma,Evening Shift,OP_118,0
+BATCH_0454,500,25,0.05,Critical / Batch Scrap,Line Beta,Day Shift,OP_129,1
+BATCH_0455,500,6,0.012,Controlled / Acceptable,Line Gamma,Day Shift,OP_112,0
+BATCH_0456,500,1,0.002,Pristine / Optimal,Line Delta,Day Shift,OP_116,0
+BATCH_0457,500,4,0.008,Controlled / Acceptable,Line Delta,Night Shift,OP_123,0
+BATCH_0458,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_106,0
+BATCH_0459,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_128,0
+BATCH_0460,500,4,0.008,Controlled / Acceptable,Line Alpha,Night Shift,OP_128,0
+BATCH_0461,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_107,0
+BATCH_0462,500,7,0.014,Elevated / Warning,Line Delta,Evening Shift,OP_124,0
+BATCH_0463,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_109,0
+BATCH_0464,500,12,0.024,Critical / Batch Scrap,Line Delta,Evening Shift,OP_110,1
+BATCH_0465,500,1,0.002,Pristine / Optimal,Line Beta,Day Shift,OP_105,0
+BATCH_0466,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_127,0
+BATCH_0467,500,6,0.012,Controlled / Acceptable,Line Alpha,Evening Shift,OP_121,0
+BATCH_0468,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_104,0
+BATCH_0469,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_111,0
+BATCH_0470,500,8,0.016,Elevated / Warning,Line Gamma,Evening Shift,OP_119,0
+BATCH_0471,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_129,0
+BATCH_0472,500,5,0.01,Controlled / Acceptable,Line Gamma,Evening Shift,OP_107,0
+BATCH_0473,500,6,0.012,Controlled / Acceptable,Line Beta,Evening Shift,OP_113,0
+BATCH_0474,500,3,0.006,Pristine / Optimal,Line Gamma,Evening Shift,OP_113,0
+BATCH_0475,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_121,0
+BATCH_0476,500,7,0.014,Elevated / Warning,Line Gamma,Evening Shift,OP_123,0
+BATCH_0477,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_118,0
+BATCH_0478,500,7,0.014,Elevated / Warning,Line Gamma,Day Shift,OP_125,0
+BATCH_0479,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_125,0
+BATCH_0480,500,6,0.012,Controlled / Acceptable,Line Gamma,Night Shift,OP_129,0
+BATCH_0481,500,2,0.004,Pristine / Optimal,Line Delta,Evening Shift,OP_109,0
+BATCH_0482,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_113,0
+BATCH_0483,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_113,0
+BATCH_0484,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_105,0
+BATCH_0485,500,4,0.008,Controlled / Acceptable,Line Gamma,Night Shift,OP_126,0
+BATCH_0486,500,9,0.018,Elevated / Warning,Line Alpha,Night Shift,OP_112,0
+BATCH_0487,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_125,0
+BATCH_0488,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_101,0
+BATCH_0489,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_118,0
+BATCH_0490,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_126,0
+BATCH_0491,500,10,0.02,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_121,1
+BATCH_0492,500,8,0.016,Elevated / Warning,Line Beta,Evening Shift,OP_121,0
+BATCH_0493,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_122,0
+BATCH_0494,500,3,0.006,Pristine / Optimal,Line Delta,Day Shift,OP_124,0
+BATCH_0495,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_128,1
+BATCH_0496,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_117,0
+BATCH_0497,500,15,0.03,Critical / Batch Scrap,Line Delta,Day Shift,OP_110,1
+BATCH_0498,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_128,0
+BATCH_0499,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_109,0
+BATCH_0500,500,3,0.006,Pristine / Optimal,Line Delta,Day Shift,OP_120,0
+BATCH_0501,500,8,0.016,Elevated / Warning,Line Delta,Day Shift,OP_108,0
+BATCH_0502,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_128,0
+BATCH_0503,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_115,0
+BATCH_0504,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_113,0
+BATCH_0505,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_128,0
+BATCH_0506,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_121,0
+BATCH_0507,500,8,0.016,Elevated / Warning,Line Beta,Day Shift,OP_117,0
+BATCH_0508,500,1,0.002,Pristine / Optimal,Line Delta,Day Shift,OP_109,0
+BATCH_0509,500,14,0.028,Critical / Batch Scrap,Line Alpha,Day Shift,OP_124,1
+BATCH_0510,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_121,0
+BATCH_0511,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_111,0
+BATCH_0512,500,1,0.002,Pristine / Optimal,Line Alpha,Night Shift,OP_104,0
+BATCH_0513,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_124,0
+BATCH_0514,500,10,0.02,Critical / Batch Scrap,Line Alpha,Night Shift,OP_125,1
+BATCH_0515,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_107,0
+BATCH_0516,500,10,0.02,Critical / Batch Scrap,Line Delta,Evening Shift,OP_120,1
+BATCH_0517,500,8,0.016,Elevated / Warning,Line Alpha,Evening Shift,OP_123,0
+BATCH_0518,500,1,0.002,Pristine / Optimal,Line Gamma,Night Shift,OP_122,0
+BATCH_0519,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_127,0
+BATCH_0520,500,14,0.028,Critical / Batch Scrap,Line Alpha,Day Shift,OP_128,1
+BATCH_0521,500,8,0.016,Elevated / Warning,Line Beta,Day Shift,OP_103,0
+BATCH_0522,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_110,0
+BATCH_0523,500,6,0.012,Controlled / Acceptable,Line Beta,Night Shift,OP_103,0
+BATCH_0524,500,9,0.018,Elevated / Warning,Line Beta,Evening Shift,OP_101,0
+BATCH_0525,500,0,0.0,Pristine / Optimal,Line Delta,Evening Shift,OP_114,0
+BATCH_0526,500,3,0.006,Pristine / Optimal,Line Gamma,Evening Shift,OP_113,0
+BATCH_0527,500,5,0.01,Controlled / Acceptable,Line Alpha,Night Shift,OP_105,0
+BATCH_0528,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_108,0
+BATCH_0529,500,0,0.0,Pristine / Optimal,Line Beta,Day Shift,OP_112,0
+BATCH_0530,500,17,0.034,Critical / Batch Scrap,Line Gamma,Night Shift,OP_106,1
+BATCH_0531,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_124,1
+BATCH_0532,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_123,0
+BATCH_0533,500,20,0.04,Critical / Batch Scrap,Line Beta,Day Shift,OP_102,1
+BATCH_0534,500,6,0.012,Controlled / Acceptable,Line Beta,Evening Shift,OP_124,0
+BATCH_0535,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_104,0
+BATCH_0536,500,0,0.0,Pristine / Optimal,Line Delta,Day Shift,OP_127,0
+BATCH_0537,500,2,0.004,Pristine / Optimal,Line Delta,Evening Shift,OP_105,0
+BATCH_0538,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_111,0
+BATCH_0539,500,11,0.022,Critical / Batch Scrap,Line Beta,Night Shift,OP_113,1
+BATCH_0540,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_108,0
+BATCH_0541,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_121,0
+BATCH_0542,500,8,0.016,Elevated / Warning,Line Delta,Evening Shift,OP_105,0
+BATCH_0543,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_106,0
+BATCH_0544,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_115,0
+BATCH_0545,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_123,0
+BATCH_0546,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_125,0
+BATCH_0547,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_116,0
+BATCH_0548,500,1,0.002,Pristine / Optimal,Line Beta,Evening Shift,OP_111,0
+BATCH_0549,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_107,0
+BATCH_0550,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_106,0
+BATCH_0551,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_112,0
+BATCH_0552,500,11,0.022,Critical / Batch Scrap,Line Beta,Evening Shift,OP_126,1
+BATCH_0553,500,8,0.016,Elevated / Warning,Line Alpha,Night Shift,OP_104,0
+BATCH_0554,500,12,0.024,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_114,1
+BATCH_0555,500,0,0.0,Pristine / Optimal,Line Alpha,Evening Shift,OP_111,0
+BATCH_0556,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_126,0
+BATCH_0557,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_112,0
+BATCH_0558,500,11,0.022,Critical / Batch Scrap,Line Alpha,Day Shift,OP_102,1
+BATCH_0559,500,20,0.04,Critical / Batch Scrap,Line Beta,Evening Shift,OP_111,1
+BATCH_0560,500,10,0.02,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_113,1
+BATCH_0561,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_111,0
+BATCH_0562,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_109,0
+BATCH_0563,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_126,0
+BATCH_0564,500,6,0.012,Controlled / Acceptable,Line Delta,Evening Shift,OP_127,0
+BATCH_0565,500,13,0.026,Critical / Batch Scrap,Line Beta,Day Shift,OP_121,1
+BATCH_0566,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_116,0
+BATCH_0567,500,0,0.0,Pristine / Optimal,Line Alpha,Evening Shift,OP_105,0
+BATCH_0568,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_127,0
+BATCH_0569,500,2,0.004,Pristine / Optimal,Line Alpha,Night Shift,OP_112,0
+BATCH_0570,500,2,0.004,Pristine / Optimal,Line Beta,Night Shift,OP_103,0
+BATCH_0571,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_129,0
+BATCH_0572,500,0,0.0,Pristine / Optimal,Line Delta,Day Shift,OP_116,0
+BATCH_0573,500,16,0.032,Critical / Batch Scrap,Line Alpha,Day Shift,OP_119,1
+BATCH_0574,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_117,0
+BATCH_0575,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_128,1
+BATCH_0576,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_111,0
+BATCH_0577,500,8,0.016,Elevated / Warning,Line Beta,Evening Shift,OP_121,0
+BATCH_0578,500,3,0.006,Pristine / Optimal,Line Gamma,Night Shift,OP_119,0
+BATCH_0579,500,3,0.006,Pristine / Optimal,Line Gamma,Night Shift,OP_127,0
+BATCH_0580,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_118,0
+BATCH_0581,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_127,0
+BATCH_0582,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_109,0
+BATCH_0583,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_113,0
+BATCH_0584,500,12,0.024,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_126,1
+BATCH_0585,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_106,0
+BATCH_0586,500,16,0.032,Critical / Batch Scrap,Line Beta,Night Shift,OP_103,1
+BATCH_0587,500,5,0.01,Controlled / Acceptable,Line Beta,Evening Shift,OP_123,0
+BATCH_0588,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_112,0
+BATCH_0589,500,2,0.004,Pristine / Optimal,Line Delta,Night Shift,OP_109,0
+BATCH_0590,500,6,0.012,Controlled / Acceptable,Line Beta,Evening Shift,OP_109,0
+BATCH_0591,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_115,0
+BATCH_0592,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_101,0
+BATCH_0593,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_118,0
+BATCH_0594,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_115,0
+BATCH_0595,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_108,0
+BATCH_0596,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_111,0
+BATCH_0597,500,8,0.016,Elevated / Warning,Line Beta,Night Shift,OP_117,0
+BATCH_0598,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_127,0
+BATCH_0599,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_128,0
+BATCH_0600,500,2,0.004,Pristine / Optimal,Line Gamma,Evening Shift,OP_127,0
+BATCH_0601,500,9,0.018,Elevated / Warning,Line Beta,Evening Shift,OP_114,0
+BATCH_0602,500,11,0.022,Critical / Batch Scrap,Line Delta,Evening Shift,OP_119,1
+BATCH_0603,500,10,0.02,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_127,1
+BATCH_0604,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_123,0
+BATCH_0605,500,13,0.026,Critical / Batch Scrap,Line Beta,Evening Shift,OP_124,1
+BATCH_0606,500,1,0.002,Pristine / Optimal,Line Beta,Evening Shift,OP_105,0
+BATCH_0607,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_102,0
+BATCH_0608,500,8,0.016,Elevated / Warning,Line Beta,Night Shift,OP_115,0
+BATCH_0609,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_119,1
+BATCH_0610,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_125,0
+BATCH_0611,500,5,0.01,Controlled / Acceptable,Line Gamma,Evening Shift,OP_116,0
+BATCH_0612,500,20,0.04,Critical / Batch Scrap,Line Gamma,Night Shift,OP_113,1
+BATCH_0613,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_127,0
+BATCH_0614,500,0,0.0,Pristine / Optimal,Line Delta,Day Shift,OP_129,0
+BATCH_0615,500,8,0.016,Elevated / Warning,Line Gamma,Day Shift,OP_126,0
+BATCH_0616,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_107,0
+BATCH_0617,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_129,0
+BATCH_0618,500,11,0.022,Critical / Batch Scrap,Line Alpha,Day Shift,OP_117,1
+BATCH_0619,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_119,0
+BATCH_0620,500,13,0.026,Critical / Batch Scrap,Line Delta,Day Shift,OP_125,1
+BATCH_0621,500,6,0.012,Controlled / Acceptable,Line Gamma,Day Shift,OP_107,0
+BATCH_0622,500,0,0.0,Pristine / Optimal,Line Delta,Day Shift,OP_112,0
+BATCH_0623,500,11,0.022,Critical / Batch Scrap,Line Alpha,Night Shift,OP_113,1
+BATCH_0624,500,8,0.016,Elevated / Warning,Line Beta,Evening Shift,OP_129,0
+BATCH_0625,500,25,0.05,Critical / Batch Scrap,Line Alpha,Night Shift,OP_113,1
+BATCH_0626,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_114,0
+BATCH_0627,500,6,0.012,Controlled / Acceptable,Line Gamma,Day Shift,OP_115,0
+BATCH_0628,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_102,0
+BATCH_0629,500,4,0.008,Controlled / Acceptable,Line Gamma,Evening Shift,OP_106,0
+BATCH_0630,500,8,0.016,Elevated / Warning,Line Gamma,Evening Shift,OP_109,0
+BATCH_0631,500,6,0.012,Controlled / Acceptable,Line Gamma,Evening Shift,OP_115,0
+BATCH_0632,500,7,0.014,Elevated / Warning,Line Alpha,Evening Shift,OP_120,0
+BATCH_0633,500,2,0.004,Pristine / Optimal,Line Gamma,Evening Shift,OP_116,0
+BATCH_0634,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_126,0
+BATCH_0635,500,6,0.012,Controlled / Acceptable,Line Delta,Night Shift,OP_102,0
+BATCH_0636,500,4,0.008,Controlled / Acceptable,Line Gamma,Evening Shift,OP_103,0
+BATCH_0637,500,6,0.012,Controlled / Acceptable,Line Gamma,Day Shift,OP_123,0
+BATCH_0638,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_120,0
+BATCH_0639,500,3,0.006,Pristine / Optimal,Line Gamma,Evening Shift,OP_123,0
+BATCH_0640,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_121,0
+BATCH_0641,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_108,0
+BATCH_0642,500,12,0.024,Critical / Batch Scrap,Line Gamma,Day Shift,OP_108,1
+BATCH_0643,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_121,0
+BATCH_0644,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_107,0
+BATCH_0645,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_111,0
+BATCH_0646,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_122,0
+BATCH_0647,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_113,0
+BATCH_0648,500,6,0.012,Controlled / Acceptable,Line Alpha,Night Shift,OP_108,0
+BATCH_0649,500,8,0.016,Elevated / Warning,Line Beta,Day Shift,OP_109,0
+BATCH_0650,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_116,0
+BATCH_0651,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_105,0
+BATCH_0652,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_123,0
+BATCH_0653,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_114,1
+BATCH_0654,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_101,0
+BATCH_0655,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_127,0
+BATCH_0656,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_124,0
+BATCH_0657,500,1,0.002,Pristine / Optimal,Line Delta,Evening Shift,OP_119,0
+BATCH_0658,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_117,0
+BATCH_0659,500,7,0.014,Elevated / Warning,Line Gamma,Day Shift,OP_122,0
+BATCH_0660,500,7,0.014,Elevated / Warning,Line Delta,Day Shift,OP_114,0
+BATCH_0661,500,5,0.01,Controlled / Acceptable,Line Delta,Day Shift,OP_113,0
+BATCH_0662,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_108,0
+BATCH_0663,500,5,0.01,Controlled / Acceptable,Line Beta,Evening Shift,OP_127,0
+BATCH_0664,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_103,0
+BATCH_0665,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_101,0
+BATCH_0666,500,1,0.002,Pristine / Optimal,Line Alpha,Evening Shift,OP_119,0
+BATCH_0667,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_115,0
+BATCH_0668,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_121,0
+BATCH_0669,500,0,0.0,Pristine / Optimal,Line Beta,Evening Shift,OP_127,0
+BATCH_0670,500,17,0.034,Critical / Batch Scrap,Line Beta,Day Shift,OP_108,1
+BATCH_0671,500,6,0.012,Controlled / Acceptable,Line Delta,Evening Shift,OP_109,0
+BATCH_0672,500,1,0.002,Pristine / Optimal,Line Gamma,Night Shift,OP_113,0
+BATCH_0673,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_112,0
+BATCH_0674,500,4,0.008,Controlled / Acceptable,Line Alpha,Night Shift,OP_109,0
+BATCH_0675,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_120,0
+BATCH_0676,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_124,0
+BATCH_0677,500,6,0.012,Controlled / Acceptable,Line Gamma,Evening Shift,OP_111,0
+BATCH_0678,500,8,0.016,Elevated / Warning,Line Beta,Evening Shift,OP_105,0
+BATCH_0679,500,11,0.022,Critical / Batch Scrap,Line Alpha,Day Shift,OP_119,1
+BATCH_0680,500,9,0.018,Elevated / Warning,Line Gamma,Evening Shift,OP_121,0
+BATCH_0681,500,2,0.004,Pristine / Optimal,Line Gamma,Night Shift,OP_118,0
+BATCH_0682,500,4,0.008,Controlled / Acceptable,Line Delta,Day Shift,OP_111,0
+BATCH_0683,500,8,0.016,Elevated / Warning,Line Beta,Night Shift,OP_127,0
+BATCH_0684,500,7,0.014,Elevated / Warning,Line Alpha,Evening Shift,OP_111,0
+BATCH_0685,500,2,0.004,Pristine / Optimal,Line Beta,Night Shift,OP_106,0
+BATCH_0686,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_101,0
+BATCH_0687,500,9,0.018,Elevated / Warning,Line Gamma,Evening Shift,OP_122,0
+BATCH_0688,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_129,0
+BATCH_0689,500,6,0.012,Controlled / Acceptable,Line Alpha,Night Shift,OP_121,0
+BATCH_0690,500,0,0.0,Pristine / Optimal,Line Alpha,Evening Shift,OP_129,0
+BATCH_0691,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_109,0
+BATCH_0692,500,15,0.03,Critical / Batch Scrap,Line Delta,Day Shift,OP_129,1
+BATCH_0693,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_107,0
+BATCH_0694,500,6,0.012,Controlled / Acceptable,Line Alpha,Evening Shift,OP_106,0
+BATCH_0695,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_127,0
+BATCH_0696,500,10,0.02,Critical / Batch Scrap,Line Beta,Day Shift,OP_128,1
+BATCH_0697,500,1,0.002,Pristine / Optimal,Line Gamma,Night Shift,OP_123,0
+BATCH_0698,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_110,0
+BATCH_0699,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_105,0
+BATCH_0700,500,7,0.014,Elevated / Warning,Line Gamma,Night Shift,OP_101,0
+BATCH_0701,500,12,0.024,Critical / Batch Scrap,Line Beta,Day Shift,OP_115,1
+BATCH_0702,500,6,0.012,Controlled / Acceptable,Line Delta,Day Shift,OP_125,0
+BATCH_0703,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_105,0
+BATCH_0704,500,7,0.014,Elevated / Warning,Line Alpha,Night Shift,OP_120,0
+BATCH_0705,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_106,0
+BATCH_0706,500,6,0.012,Controlled / Acceptable,Line Alpha,Evening Shift,OP_105,0
+BATCH_0707,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_117,0
+BATCH_0708,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_118,0
+BATCH_0709,500,0,0.0,Pristine / Optimal,Line Gamma,Night Shift,OP_104,0
+BATCH_0710,500,10,0.02,Critical / Batch Scrap,Line Beta,Day Shift,OP_124,1
+BATCH_0711,500,5,0.01,Controlled / Acceptable,Line Gamma,Evening Shift,OP_121,0
+BATCH_0712,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_123,0
+BATCH_0713,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_102,0
+BATCH_0714,500,9,0.018,Elevated / Warning,Line Beta,Day Shift,OP_108,0
+BATCH_0715,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_105,0
+BATCH_0716,500,12,0.024,Critical / Batch Scrap,Line Alpha,Night Shift,OP_104,1
+BATCH_0717,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_125,0
+BATCH_0718,500,6,0.012,Controlled / Acceptable,Line Beta,Night Shift,OP_122,0
+BATCH_0719,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_114,0
+BATCH_0720,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_104,0
+BATCH_0721,500,0,0.0,Pristine / Optimal,Line Beta,Night Shift,OP_108,0
+BATCH_0722,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_103,0
+BATCH_0723,500,5,0.01,Controlled / Acceptable,Line Alpha,Night Shift,OP_114,0
+BATCH_0724,500,9,0.018,Elevated / Warning,Line Alpha,Evening Shift,OP_129,0
+BATCH_0725,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_126,0
+BATCH_0726,500,14,0.028,Critical / Batch Scrap,Line Beta,Evening Shift,OP_118,1
+BATCH_0727,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_123,0
+BATCH_0728,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_112,0
+BATCH_0729,500,5,0.01,Controlled / Acceptable,Line Delta,Evening Shift,OP_115,0
+BATCH_0730,500,4,0.008,Controlled / Acceptable,Line Delta,Day Shift,OP_120,0
+BATCH_0731,500,8,0.016,Elevated / Warning,Line Gamma,Day Shift,OP_120,0
+BATCH_0732,500,2,0.004,Pristine / Optimal,Line Delta,Night Shift,OP_126,0
+BATCH_0733,500,1,0.002,Pristine / Optimal,Line Beta,Night Shift,OP_109,0
+BATCH_0734,500,1,0.002,Pristine / Optimal,Line Delta,Evening Shift,OP_102,0
+BATCH_0735,500,4,0.008,Controlled / Acceptable,Line Gamma,Evening Shift,OP_101,0
+BATCH_0736,500,7,0.014,Elevated / Warning,Line Delta,Evening Shift,OP_115,0
+BATCH_0737,500,12,0.024,Critical / Batch Scrap,Line Beta,Evening Shift,OP_123,1
+BATCH_0738,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_115,0
+BATCH_0739,500,12,0.024,Critical / Batch Scrap,Line Beta,Night Shift,OP_128,1
+BATCH_0740,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_108,0
+BATCH_0741,500,11,0.022,Critical / Batch Scrap,Line Beta,Evening Shift,OP_103,1
+BATCH_0742,500,8,0.016,Elevated / Warning,Line Delta,Night Shift,OP_102,0
+BATCH_0743,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_104,0
+BATCH_0744,500,6,0.012,Controlled / Acceptable,Line Beta,Night Shift,OP_118,0
+BATCH_0745,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_112,0
+BATCH_0746,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_118,0
+BATCH_0747,500,3,0.006,Pristine / Optimal,Line Delta,Night Shift,OP_121,0
+BATCH_0748,500,1,0.002,Pristine / Optimal,Line Delta,Day Shift,OP_110,0
+BATCH_0749,500,0,0.0,Pristine / Optimal,Line Beta,Evening Shift,OP_121,0
+BATCH_0750,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_108,0
+BATCH_0751,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_125,0
+BATCH_0752,500,11,0.022,Critical / Batch Scrap,Line Beta,Evening Shift,OP_118,1
+BATCH_0753,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_117,0
+BATCH_0754,500,0,0.0,Pristine / Optimal,Line Alpha,Evening Shift,OP_119,0
+BATCH_0755,500,9,0.018,Elevated / Warning,Line Beta,Evening Shift,OP_106,0
+BATCH_0756,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_114,0
+BATCH_0757,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_105,0
+BATCH_0758,500,12,0.024,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_108,1
+BATCH_0759,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_108,0
+BATCH_0760,500,11,0.022,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_118,1
+BATCH_0761,500,11,0.022,Critical / Batch Scrap,Line Delta,Day Shift,OP_109,1
+BATCH_0762,500,9,0.018,Elevated / Warning,Line Beta,Day Shift,OP_114,0
+BATCH_0763,500,18,0.036,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_114,1
+BATCH_0764,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_120,0
+BATCH_0765,500,18,0.036,Critical / Batch Scrap,Line Delta,Night Shift,OP_114,1
+BATCH_0766,500,16,0.032,Critical / Batch Scrap,Line Gamma,Day Shift,OP_117,1
+BATCH_0767,500,16,0.032,Critical / Batch Scrap,Line Gamma,Day Shift,OP_102,1
+BATCH_0768,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_114,1
+BATCH_0769,500,4,0.008,Controlled / Acceptable,Line Gamma,Evening Shift,OP_127,0
+BATCH_0770,500,19,0.038,Critical / Batch Scrap,Line Gamma,Day Shift,OP_122,1
+BATCH_0771,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_121,0
+BATCH_0772,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_112,0
+BATCH_0773,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_123,0
+BATCH_0774,500,10,0.02,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_125,1
+BATCH_0775,500,9,0.018,Elevated / Warning,Line Delta,Night Shift,OP_116,0
+BATCH_0776,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_122,0
+BATCH_0777,500,6,0.012,Controlled / Acceptable,Line Alpha,Evening Shift,OP_106,0
+BATCH_0778,500,6,0.012,Controlled / Acceptable,Line Beta,Evening Shift,OP_118,0
+BATCH_0779,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_107,0
+BATCH_0780,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_102,1
+BATCH_0781,500,4,0.008,Controlled / Acceptable,Line Alpha,Night Shift,OP_113,0
+BATCH_0782,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_123,0
+BATCH_0783,500,1,0.002,Pristine / Optimal,Line Delta,Day Shift,OP_108,0
+BATCH_0784,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_112,0
+BATCH_0785,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_101,0
+BATCH_0786,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_109,0
+BATCH_0787,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_108,0
+BATCH_0788,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_109,0
+BATCH_0789,500,2,0.004,Pristine / Optimal,Line Gamma,Evening Shift,OP_105,0
+BATCH_0790,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_113,0
+BATCH_0791,500,5,0.01,Controlled / Acceptable,Line Beta,Night Shift,OP_114,0
+BATCH_0792,500,2,0.004,Pristine / Optimal,Line Gamma,Night Shift,OP_104,0
+BATCH_0793,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_117,0
+BATCH_0794,500,23,0.046,Critical / Batch Scrap,Line Beta,Day Shift,OP_109,1
+BATCH_0795,500,8,0.016,Elevated / Warning,Line Beta,Night Shift,OP_120,0
+BATCH_0796,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_115,0
+BATCH_0797,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_120,0
+BATCH_0798,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_104,0
+BATCH_0799,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_102,0
+BATCH_0800,500,3,0.006,Pristine / Optimal,Line Delta,Night Shift,OP_128,0
+BATCH_0801,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_127,0
+BATCH_0802,500,3,0.006,Pristine / Optimal,Line Delta,Night Shift,OP_113,0
+BATCH_0803,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_104,0
+BATCH_0804,500,3,0.006,Pristine / Optimal,Line Gamma,Evening Shift,OP_118,0
+BATCH_0805,500,2,0.004,Pristine / Optimal,Line Alpha,Night Shift,OP_124,0
+BATCH_0806,500,5,0.01,Controlled / Acceptable,Line Alpha,Night Shift,OP_116,0
+BATCH_0807,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_123,0
+BATCH_0808,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_127,0
+BATCH_0809,500,13,0.026,Critical / Batch Scrap,Line Delta,Evening Shift,OP_110,1
+BATCH_0810,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_102,0
+BATCH_0811,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_114,0
+BATCH_0812,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_102,0
+BATCH_0813,500,16,0.032,Critical / Batch Scrap,Line Gamma,Evening Shift,OP_118,1
+BATCH_0814,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_101,0
+BATCH_0815,500,17,0.034,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_113,1
+BATCH_0816,500,14,0.028,Critical / Batch Scrap,Line Alpha,Day Shift,OP_106,1
+BATCH_0817,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_122,0
+BATCH_0818,500,7,0.014,Elevated / Warning,Line Alpha,Evening Shift,OP_117,0
+BATCH_0819,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_127,0
+BATCH_0820,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_117,0
+BATCH_0821,500,5,0.01,Controlled / Acceptable,Line Delta,Day Shift,OP_122,0
+BATCH_0822,500,18,0.036,Critical / Batch Scrap,Line Beta,Day Shift,OP_111,1
+BATCH_0823,500,21,0.042,Critical / Batch Scrap,Line Gamma,Night Shift,OP_106,1
+BATCH_0824,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_120,0
+BATCH_0825,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_103,0
+BATCH_0826,500,1,0.002,Pristine / Optimal,Line Beta,Evening Shift,OP_114,0
+BATCH_0827,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_125,0
+BATCH_0828,500,7,0.014,Elevated / Warning,Line Beta,Night Shift,OP_106,0
+BATCH_0829,500,1,0.002,Pristine / Optimal,Line Beta,Day Shift,OP_117,0
+BATCH_0830,500,14,0.028,Critical / Batch Scrap,Line Beta,Night Shift,OP_103,1
+BATCH_0831,500,10,0.02,Critical / Batch Scrap,Line Alpha,Day Shift,OP_117,1
+BATCH_0832,500,12,0.024,Critical / Batch Scrap,Line Alpha,Day Shift,OP_119,1
+BATCH_0833,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_118,0
+BATCH_0834,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_105,0
+BATCH_0835,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_115,0
+BATCH_0836,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_103,0
+BATCH_0837,500,2,0.004,Pristine / Optimal,Line Delta,Evening Shift,OP_123,0
+BATCH_0838,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_108,0
+BATCH_0839,500,11,0.022,Critical / Batch Scrap,Line Delta,Night Shift,OP_107,1
+BATCH_0840,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_118,0
+BATCH_0841,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_110,0
+BATCH_0842,500,1,0.002,Pristine / Optimal,Line Alpha,Day Shift,OP_126,0
+BATCH_0843,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_123,0
+BATCH_0844,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_110,0
+BATCH_0845,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_119,0
+BATCH_0846,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_123,0
+BATCH_0847,500,5,0.01,Controlled / Acceptable,Line Gamma,Night Shift,OP_101,0
+BATCH_0848,500,7,0.014,Elevated / Warning,Line Beta,Night Shift,OP_102,0
+BATCH_0849,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_128,0
+BATCH_0850,500,5,0.01,Controlled / Acceptable,Line Delta,Evening Shift,OP_126,0
+BATCH_0851,500,2,0.004,Pristine / Optimal,Line Gamma,Night Shift,OP_101,0
+BATCH_0852,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_109,0
+BATCH_0853,500,4,0.008,Controlled / Acceptable,Line Delta,Day Shift,OP_129,0
+BATCH_0854,500,5,0.01,Controlled / Acceptable,Line Beta,Night Shift,OP_129,0
+BATCH_0855,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_115,0
+BATCH_0856,500,1,0.002,Pristine / Optimal,Line Delta,Day Shift,OP_118,0
+BATCH_0857,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_118,0
+BATCH_0858,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_122,0
+BATCH_0859,500,19,0.038,Critical / Batch Scrap,Line Alpha,Day Shift,OP_107,1
+BATCH_0860,500,1,0.002,Pristine / Optimal,Line Beta,Day Shift,OP_114,0
+BATCH_0861,500,2,0.004,Pristine / Optimal,Line Beta,Evening Shift,OP_129,0
+BATCH_0862,500,4,0.008,Controlled / Acceptable,Line Alpha,Night Shift,OP_118,0
+BATCH_0863,500,10,0.02,Critical / Batch Scrap,Line Beta,Day Shift,OP_120,1
+BATCH_0864,500,12,0.024,Critical / Batch Scrap,Line Gamma,Day Shift,OP_119,1
+BATCH_0865,500,2,0.004,Pristine / Optimal,Line Alpha,Day Shift,OP_129,0
+BATCH_0866,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_105,0
+BATCH_0867,500,6,0.012,Controlled / Acceptable,Line Alpha,Evening Shift,OP_109,0
+BATCH_0868,500,7,0.014,Elevated / Warning,Line Gamma,Evening Shift,OP_118,0
+BATCH_0869,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_113,0
+BATCH_0870,500,11,0.022,Critical / Batch Scrap,Line Delta,Evening Shift,OP_105,1
+BATCH_0871,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_124,0
+BATCH_0872,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_122,0
+BATCH_0873,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_120,0
+BATCH_0874,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_115,0
+BATCH_0875,500,0,0.0,Pristine / Optimal,Line Beta,Night Shift,OP_126,0
+BATCH_0876,500,2,0.004,Pristine / Optimal,Line Delta,Night Shift,OP_124,0
+BATCH_0877,500,3,0.006,Pristine / Optimal,Line Beta,Evening Shift,OP_119,0
+BATCH_0878,500,10,0.02,Critical / Batch Scrap,Line Delta,Night Shift,OP_120,1
+BATCH_0879,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_111,0
+BATCH_0880,500,18,0.036,Critical / Batch Scrap,Line Delta,Night Shift,OP_109,1
+BATCH_0881,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_121,0
+BATCH_0882,500,8,0.016,Elevated / Warning,Line Delta,Evening Shift,OP_122,0
+BATCH_0883,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_128,0
+BATCH_0884,500,25,0.05,Critical / Batch Scrap,Line Delta,Evening Shift,OP_116,1
+BATCH_0885,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_111,0
+BATCH_0886,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_102,0
+BATCH_0887,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_125,0
+BATCH_0888,500,2,0.004,Pristine / Optimal,Line Beta,Day Shift,OP_108,0
+BATCH_0889,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_123,0
+BATCH_0890,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_125,0
+BATCH_0891,500,7,0.014,Elevated / Warning,Line Beta,Night Shift,OP_121,0
+BATCH_0892,500,5,0.01,Controlled / Acceptable,Line Gamma,Evening Shift,OP_105,0
+BATCH_0893,500,0,0.0,Pristine / Optimal,Line Alpha,Night Shift,OP_111,0
+BATCH_0894,500,4,0.008,Controlled / Acceptable,Line Beta,Night Shift,OP_111,0
+BATCH_0895,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_109,0
+BATCH_0896,500,4,0.008,Controlled / Acceptable,Line Delta,Day Shift,OP_111,0
+BATCH_0897,500,12,0.024,Critical / Batch Scrap,Line Beta,Day Shift,OP_105,1
+BATCH_0898,500,8,0.016,Elevated / Warning,Line Gamma,Night Shift,OP_109,0
+BATCH_0899,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_101,0
+BATCH_0900,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_126,0
+BATCH_0901,500,9,0.018,Elevated / Warning,Line Beta,Day Shift,OP_110,0
+BATCH_0902,500,5,0.01,Controlled / Acceptable,Line Alpha,Night Shift,OP_127,0
+BATCH_0903,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_108,0
+BATCH_0904,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_119,0
+BATCH_0905,500,3,0.006,Pristine / Optimal,Line Gamma,Day Shift,OP_116,0
+BATCH_0906,500,12,0.024,Critical / Batch Scrap,Line Alpha,Day Shift,OP_113,1
+BATCH_0907,500,5,0.01,Controlled / Acceptable,Line Delta,Evening Shift,OP_124,0
+BATCH_0908,500,0,0.0,Pristine / Optimal,Line Alpha,Night Shift,OP_105,0
+BATCH_0909,500,10,0.02,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_118,1
+BATCH_0910,500,13,0.026,Critical / Batch Scrap,Line Beta,Night Shift,OP_109,1
+BATCH_0911,500,14,0.028,Critical / Batch Scrap,Line Beta,Evening Shift,OP_104,1
+BATCH_0912,500,8,0.016,Elevated / Warning,Line Beta,Evening Shift,OP_114,0
+BATCH_0913,500,3,0.006,Pristine / Optimal,Line Beta,Day Shift,OP_107,0
+BATCH_0914,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_112,0
+BATCH_0915,500,1,0.002,Pristine / Optimal,Line Gamma,Day Shift,OP_124,0
+BATCH_0916,500,4,0.008,Controlled / Acceptable,Line Beta,Night Shift,OP_107,0
+BATCH_0917,500,4,0.008,Controlled / Acceptable,Line Alpha,Night Shift,OP_111,0
+BATCH_0918,500,0,0.0,Pristine / Optimal,Line Gamma,Evening Shift,OP_122,0
+BATCH_0919,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_115,0
+BATCH_0920,500,6,0.012,Controlled / Acceptable,Line Beta,Day Shift,OP_128,0
+BATCH_0921,500,7,0.014,Elevated / Warning,Line Gamma,Night Shift,OP_107,0
+BATCH_0922,500,7,0.014,Elevated / Warning,Line Delta,Day Shift,OP_120,0
+BATCH_0923,500,2,0.004,Pristine / Optimal,Line Beta,Night Shift,OP_126,0
+BATCH_0924,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_117,0
+BATCH_0925,500,13,0.026,Critical / Batch Scrap,Line Delta,Day Shift,OP_105,1
+BATCH_0926,500,3,0.006,Pristine / Optimal,Line Alpha,Night Shift,OP_108,0
+BATCH_0927,500,3,0.006,Pristine / Optimal,Line Alpha,Day Shift,OP_110,0
+BATCH_0928,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_106,0
+BATCH_0929,500,8,0.016,Elevated / Warning,Line Gamma,Night Shift,OP_121,0
+BATCH_0930,500,8,0.016,Elevated / Warning,Line Delta,Evening Shift,OP_102,0
+BATCH_0931,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_126,0
+BATCH_0932,500,3,0.006,Pristine / Optimal,Line Delta,Evening Shift,OP_128,0
+BATCH_0933,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_105,0
+BATCH_0934,500,19,0.038,Critical / Batch Scrap,Line Alpha,Day Shift,OP_110,1
+BATCH_0935,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_128,0
+BATCH_0936,500,10,0.02,Critical / Batch Scrap,Line Delta,Day Shift,OP_103,1
+BATCH_0937,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_113,0
+BATCH_0938,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_116,0
+BATCH_0939,500,8,0.016,Elevated / Warning,Line Alpha,Day Shift,OP_115,0
+BATCH_0940,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_102,0
+BATCH_0941,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_103,0
+BATCH_0942,500,4,0.008,Controlled / Acceptable,Line Alpha,Day Shift,OP_120,0
+BATCH_0943,500,1,0.002,Pristine / Optimal,Line Delta,Day Shift,OP_118,0
+BATCH_0944,500,0,0.0,Pristine / Optimal,Line Beta,Night Shift,OP_120,0
+BATCH_0945,500,4,0.008,Controlled / Acceptable,Line Gamma,Day Shift,OP_120,0
+BATCH_0946,500,6,0.012,Controlled / Acceptable,Line Alpha,Evening Shift,OP_115,0
+BATCH_0947,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_122,0
+BATCH_0948,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_128,0
+BATCH_0949,500,4,0.008,Controlled / Acceptable,Line Delta,Evening Shift,OP_105,0
+BATCH_0950,500,5,0.01,Controlled / Acceptable,Line Beta,Night Shift,OP_123,0
+BATCH_0951,500,2,0.004,Pristine / Optimal,Line Delta,Evening Shift,OP_111,0
+BATCH_0952,500,11,0.022,Critical / Batch Scrap,Line Gamma,Day Shift,OP_123,1
+BATCH_0953,500,4,0.008,Controlled / Acceptable,Line Alpha,Evening Shift,OP_103,0
+BATCH_0954,500,15,0.03,Critical / Batch Scrap,Line Alpha,Evening Shift,OP_109,1
+BATCH_0955,500,9,0.018,Elevated / Warning,Line Gamma,Day Shift,OP_107,0
+BATCH_0956,500,19,0.038,Critical / Batch Scrap,Line Beta,Day Shift,OP_123,1
+BATCH_0957,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_102,0
+BATCH_0958,500,11,0.022,Critical / Batch Scrap,Line Beta,Day Shift,OP_115,1
+BATCH_0959,500,7,0.014,Elevated / Warning,Line Beta,Day Shift,OP_112,0
+BATCH_0960,500,7,0.014,Elevated / Warning,Line Delta,Evening Shift,OP_116,0
+BATCH_0961,500,5,0.01,Controlled / Acceptable,Line Alpha,Day Shift,OP_126,0
+BATCH_0962,500,1,0.002,Pristine / Optimal,Line Alpha,Night Shift,OP_116,0
+BATCH_0963,500,5,0.01,Controlled / Acceptable,Line Beta,Evening Shift,OP_116,0
+BATCH_0964,500,15,0.03,Critical / Batch Scrap,Line Gamma,Night Shift,OP_119,1
+BATCH_0965,500,1,0.002,Pristine / Optimal,Line Gamma,Evening Shift,OP_103,0
+BATCH_0966,500,5,0.01,Controlled / Acceptable,Line Delta,Day Shift,OP_128,0
+BATCH_0967,500,7,0.014,Elevated / Warning,Line Gamma,Evening Shift,OP_129,0
+BATCH_0968,500,10,0.02,Critical / Batch Scrap,Line Beta,Night Shift,OP_122,1
+BATCH_0969,500,7,0.014,Elevated / Warning,Line Alpha,Day Shift,OP_120,0
+BATCH_0970,500,8,0.016,Elevated / Warning,Line Beta,Day Shift,OP_104,0
+BATCH_0971,500,2,0.004,Pristine / Optimal,Line Gamma,Day Shift,OP_101,0
+BATCH_0972,500,5,0.01,Controlled / Acceptable,Line Gamma,Day Shift,OP_122,0
+BATCH_0973,500,4,0.008,Controlled / Acceptable,Line Delta,Day Shift,OP_108,0
+BATCH_0974,500,5,0.01,Controlled / Acceptable,Line Beta,Day Shift,OP_124,0
+BATCH_0975,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_115,0
+BATCH_0976,500,5,0.01,Controlled / Acceptable,Line Alpha,Evening Shift,OP_124,0
+BATCH_0977,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_121,0
+BATCH_0978,500,8,0.016,Elevated / Warning,Line Alpha,Evening Shift,OP_126,0
+BATCH_0979,500,2,0.004,Pristine / Optimal,Line Alpha,Evening Shift,OP_122,0
+BATCH_0980,500,4,0.008,Controlled / Acceptable,Line Beta,Evening Shift,OP_105,0
+BATCH_0981,500,14,0.028,Critical / Batch Scrap,Line Alpha,Day Shift,OP_120,1
+BATCH_0982,500,7,0.014,Elevated / Warning,Line Gamma,Evening Shift,OP_112,0
+BATCH_0983,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_120,0
+BATCH_0984,500,4,0.008,Controlled / Acceptable,Line Beta,Day Shift,OP_120,0
+BATCH_0985,500,7,0.014,Elevated / Warning,Line Beta,Evening Shift,OP_104,0
+BATCH_0986,500,6,0.012,Controlled / Acceptable,Line Alpha,Day Shift,OP_122,0
+BATCH_0987,500,2,0.004,Pristine / Optimal,Line Delta,Day Shift,OP_115,0
+BATCH_0988,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_106,0
+BATCH_0989,500,8,0.016,Elevated / Warning,Line Delta,Day Shift,OP_105,0
+BATCH_0990,500,9,0.018,Elevated / Warning,Line Alpha,Day Shift,OP_128,0
+BATCH_0991,500,7,0.014,Elevated / Warning,Line Beta,Night Shift,OP_111,0
+BATCH_0992,500,0,0.0,Pristine / Optimal,Line Alpha,Day Shift,OP_114,0
+BATCH_0993,500,7,0.014,Elevated / Warning,Line Alpha,Evening Shift,OP_111,0
+BATCH_0994,500,9,0.018,Elevated / Warning,Line Beta,Evening Shift,OP_109,0
+BATCH_0995,500,2,0.004,Pristine / Optimal,Line Gamma,Evening Shift,OP_124,0
+BATCH_0996,500,2,0.004,Pristine / Optimal,Line Alpha,Night Shift,OP_110,0
+BATCH_0997,500,11,0.022,Critical / Batch Scrap,Line Beta,Night Shift,OP_106,1
+BATCH_0998,500,3,0.006,Pristine / Optimal,Line Alpha,Evening Shift,OP_111,0
+BATCH_0999,500,3,0.006,Pristine / Optimal,Line Beta,Night Shift,OP_109,0
+BATCH_1000,500,1,0.002,Pristine / Optimal,Line Delta,Day Shift,OP_105,0

@@ -1,0 +1,5 @@
+Model,Shannon_Entropy_HP,Cross_Entropy_HPQ,KL_Divergence_DKL,MAE_Percent,RMSE_Percent,Test_Log_Likelihood
+"Negative Binomial NB(r, p)",3.9016,3.9797,0.0781,0.9133,1.109,-419.93
+Poisson Pois(lambda),3.9016,4.7204,0.8187,2.628,3.715,-497.33
+"Binomial Bin(n=500, p)",3.9016,4.7409,0.8392,2.6499,3.7485,-499.49
+Uniform Baseline,3.9016,4.5236,0.6219,3.4623,3.8933,-476.6

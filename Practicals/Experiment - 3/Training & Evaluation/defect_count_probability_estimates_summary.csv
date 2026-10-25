@@ -1,0 +1,14 @@
+Defect_Count_k,Empirical_Frequency,Negative_Binomial_Prob,Poisson_Prob,NB_Absolute_Error,Poisson_Absolute_Error,Operational_QC_Status
+0,3.29,5.21,0.34,1.92,2.95,Pristine Zero-Defect
+1,7.89,8.99,1.91,1.09,5.98,Target Optimal Tier
+2,11.84,10.88,5.45,0.97,6.39,Target Optimal Tier
+3,12.5,11.3,10.35,1.2,2.15,Target Optimal Tier
+4,9.21,10.78,14.74,1.57,5.53,Acceptable Steady-State
+5,7.89,9.73,16.79,1.84,8.89,Acceptable Steady-State
+6,9.21,8.45,15.93,0.76,6.72,Acceptable Steady-State
+7,5.92,7.13,12.96,1.21,7.04,Elevated Warning Zone
+8,7.24,5.89,9.23,1.35,1.99,Elevated Warning Zone
+9,7.24,4.78,5.84,2.46,1.4,Elevated Warning Zone
+10,3.29,3.82,3.33,0.53,0.04,Critical Batch Scrap (>= 10)
+12,2.63,2.37,0.82,0.27,1.81,Critical Batch Scrap (>= 10)
+15,0.66,1.08,0.06,0.43,0.6,Critical Batch Scrap (>= 10)
