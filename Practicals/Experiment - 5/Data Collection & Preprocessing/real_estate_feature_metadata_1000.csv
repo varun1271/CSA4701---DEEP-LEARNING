@@ -1,0 +1,9 @@
+Feature_Index,Feature_Name,Measurement_Unit,Raw_Mean,Raw_Std,Raw_Min,Raw_Max,Domain_Description
+F01,Square_Footage,Sq Ft,2240.5,789.92,800.0,5200.0,Finished interior livable space area (sq ft)
+F02,Bedrooms,Count,3.98,1.07,1.0,6.0,Total count of dedicated private bedrooms
+F03,Bathrooms,Count,4.5,0.62,2.5,5.0,Combined full and half bathroom count
+F04,Age_of_Property_Years,Years,24.1,13.79,0.5,47.9,Time elapsed since initial construction (years)
+F05,Distance_to_Metro_KM,Kilometers,5.66,5.1,0.5,28.0,Network distance to nearest rapid transit station (km)
+F06,Location_Desirability_Score,Index [1-10],6.13,1.68,1.7,9.8,Composite neighborhood quality & safety index [1-10]
+F07,School_Rating_Index,Index [1-10],5.96,1.34,2.41,9.12,State standardized public school district score [1-10]
+F08,Lot_Area_SqFt,Sq Ft,7120.9,3069.71,2155.0,18000.0,Total parcel ground land area (sq ft)

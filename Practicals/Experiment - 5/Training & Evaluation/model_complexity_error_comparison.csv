@@ -1,0 +1,11 @@
+Model_Family,Model_Name,Complexity_Metric,Param_Count,Train_MSE,Test_MSE,Train_RMSE,Test_RMSE,Train_MAE,Test_MAE,Train_R2,Test_R2,Generalization_Gap_MSE
+Polynomial Regression,Linear (Deg 1),Deg 1 (9 params),9,631.74,894.19,25.13,29.9,19.94,22.27,0.9894,0.9869,262.45
+Polynomial Regression,Polynomial Deg 2,Deg 2 (45 params),45,432.65,692.63,20.8,26.32,16.58,18.93,0.9927,0.9899,259.98
+Polynomial Regression,Polynomial Deg 3,Deg 3 (165 params),165,342.54,1021.6,18.51,31.96,14.6,22.21,0.9942,0.985,679.06
+Polynomial Regression,Polynomial Deg 4,Deg 4 (495 params),495,115.68,90679.61,10.76,301.13,7.55,110.98,0.9981,-0.3288,90563.92
+Decision Tree Regressor,Decision Tree (Depth 2),Depth 2 (4 leaves),4,20196.26,26899.55,142.11,164.01,113.33,126.45,0.6597,0.6058,6703.29
+Decision Tree Regressor,Decision Tree (Depth 4),Depth 4 (16 leaves),16,6292.74,9608.47,79.33,98.02,64.27,78.04,0.894,0.8592,3315.73
+Decision Tree Regressor,Decision Tree (Depth 6),Depth 6 (64 leaves),64,1990.27,5312.96,44.61,72.89,35.51,56.78,0.9665,0.9221,3322.69
+Decision Tree Regressor,Decision Tree (Depth 8),Depth 8 (210 leaves),210,544.5,4708.31,23.33,68.62,16.07,54.06,0.9908,0.931,4163.81
+Decision Tree Regressor,Decision Tree (Depth 12),Depth 12 (612 leaves),612,9.65,4589.36,3.11,67.74,0.96,52.8,0.9998,0.9327,4579.72
+Decision Tree Regressor,Decision Tree (Unlimited),Unlimited (694 leaves),694,0.0,4305.3,0.0,65.61,0.0,52.54,1.0,0.9369,4305.3

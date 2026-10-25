@@ -1,0 +1,9 @@
+Feature_Index,Feature_Name,Measurement_Unit,Raw_Mean,Raw_Std,Raw_Min,Raw_Max,Curvature_Significance
+F01,Signal_Amplitude_HighVar,Volts (V),120.812,41.127,-16.13,281.81,Dominant high-energy oscillation amplitude (Scale ~ 42.0)
+F02,Frequency_Modulation_LowVar,Radians / sec,2.525,0.349,1.471,3.618,Micro-scale carrier modulation frequency (Scale ~ 0.35)
+F03,Phase_Shift_Collinear1,Radians,3.13,1.776,-0.209,6.306,Primary harmonic phase offset in radians [0 - 2*pi]
+F04,Phase_Shift_Collinear2,Radians,2.869,1.644,-0.116,6.079,"Secondary harmonic phase offset (Collinear with Phase1, r > 0.95)"
+F05,Harmonic_Resonance_Ratio,Ratio,1.507,0.659,0.127,3.341,Resonance peak energy ratio relative to fundamental
+F06,Damping_Factor_Proxy,sec^-1,1.409,1.183,0.203,9.831,Exponential decay dissipation rate coefficient
+F07,Noise_Floor_Jitter,Normalized,-0.013,0.485,-1.509,1.381,Stochastic additive gaussian channel disturbance
+F08,Spectral_Centroid_Offset,Hertz (Hz),3.763,1.172,-0.193,8.1,Spectral power distribution center of gravity
